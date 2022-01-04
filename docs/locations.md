@@ -80,7 +80,7 @@ Use this template for new locations:
 ## Pennsylvania
 
 ## Michigan
-1. **Canton: FCTS-Canton- <font color="green">OPEN</font>
+1. **Canton: FCTS-Canton- <font color="green">OPEN</font>**
     * **Address:** 7288 Sheldon Rd Canton, MI 48187
     * **Location Phone Number:** 
     * **Location Type:** Office/Store/Parking lot
@@ -90,7 +90,7 @@ Use this template for new locations:
         The suite next to the pub
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-canton-mi-gKvMx7>
     * **Registration Link:**  
-1. **Waterford Townships: FCTS-Waterford- <font color="green">OPEN</font>
+1. **Waterford Townships: FCTS-Waterford- <font color="green">OPEN</font>**
     * **Address:** 6650 Highland Rd,Waterford Twp, MI 48327
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
