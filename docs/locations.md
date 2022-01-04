@@ -35,8 +35,7 @@ Use this template for new locations:
     * **Timings:** 
         * 8am to 8pm, Open 7 days
     * **Additional notes:**  
-      Enter the office building on Carr Rd and drive straight back.  
-      There is a mobile office trailer parked all the way back in the parking lot. 
+  
 1. **Claymont - Claymont - <font color="green">OPEN</font>**
     * **Address:** 
     * **Location Phone Number:** 
@@ -45,7 +44,16 @@ Use this template for new locations:
     * **Additional notes:**  
 
 ## New York
-
+1. **Copiague:FCTS-Copiague- <font color="red">CLOSED</font>**
+    * **Address:** 1909 Great Neck RD, Copiague NY 11726
+    * **Location Phone Number:** 
+    * **Location Type:** Parking lot
+    * **Appointment Required:** Yes
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+     Testing done in the back of the building off of Marconi Blvd
+    * **Solv-Health Appointment Link:** https://www.solvhealth.com/free-covid-testing-site-copiague-ny-A9QbJ3.
+    * **Registration Link:**  
 ## New Jersey
 
 ## Virginia
@@ -53,17 +61,98 @@ Use this template for new locations:
 ## Pennsylvania
 
 ## Michigan
+1. **Canton: FCTS-Canton- <font color="green">OPEN</font>
+    * **Address:** 7288 Sheldon Rd Canton, MI 48187
+    * **Location Phone Number:** 
+    * **Location Type:** Office/Store/Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+        The suite next to the pub
+    * **Solv-Health Appointment Link:** https://www.solvhealth.com/free-covid-testing-site-canton-mi-gKvMx7
+    * **Registration Link:**  
+1. **Waterford Townships: FCTS-Waterford- <font color="green">OPEN</font>
+    * **Address:** 6650 Highland Rd,Waterford Twp, MI 48327
+    * **Location Phone Number:** 
+    * **Location Type:** Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+        Next to Lady Jane's hair salon
+    * **Solv-Health Appointment Link:** https://www.solvhealth.com/free-covid-testing-site-waterford-township-mi-gd8nZV#reviews
+    * **Registration Link:**  
 
 ## Illinois
 
 ## Kentucky
 
 ## Texas
+1. **Richmond:FCTS-Richmond- <font color="green">OPEN</font>**
+    * **Address:** 301 S 9th St suite 117, Richmond TX 77469
+    * **Location Phone Number:** 
+    * **Location Type:** Parking lot
+    * **Appointment Required:** Yes
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+     All odd numbered suites are at the back of the building on 8th street. Drive to the back of the building on eighth street and look for suite 117 and park near there. The technician will come up to your car.
+    * **Solv-Health Appointment Link:** https://www.solvhealth.com/free-covid-testing-site-richmond-tx-AaRR28
+    * **Registration Link:** 
 
+2. **North Houston:FCTS-Greenpkwy- <font color="green">OPEN</font>**
+    * **Address:** 1106 Greens Pkwy, Houston, TX, 77067
+    * **Location Phone Number:** 
+    * **Location Type:** Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+     Mobile unit near the EC learning center parking lot
+    * **Solv-Health Appointment Link:** https://www.solvhealth.com/free-covid-testing-site-houston-tx-gZeexb
+    * **Registration Link:** 
+3. **South Houston:FCTS-Telephone- <font color="green">OPEN</font>**
+    * **Address:** 4659 Telephone Rd, HoustonTX  77087
+    * **Location Phone Number:** 
+    * **Location Type:** Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+     Extra tips to find the location: in the lot of swift gas station
+    * **Solv-Health Appointment Link:** https://www.solvhealth.com/free-covid-testing-site-houston-tx-pYOO6l
+    * **Registration Link:** 
+4. **North Houston:FCTS-Mangum- <font color="green">OPEN</font>**
+    * **Address:** 2917 Mangum RdHouston, TX 77092
+    * **Location Phone Number:** 
+    * **Location Type:** Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+     Extra tips to find the location: in the lot of swift gas station
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:** 
+5. **Stafford:FCTS-Stafford- <font color="green">OPEN</font>**
+    * **Address:**501 Murphy Rd, Stafford TX 77477
+    * **Location Phone Number:** 
+    * **Location Type:** Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 8pm, Open 7 days
+    * **Additional notes:**  
+     Mobile unit near the EC learning center parking lot
+    * **Solv-Health Appointment Link:** https://www.solvhealth.com/free-covid-testing-site-stafford-tx-pYJE9g
+    * **Registration Link:** 
+6. **Pasadena:FCTS-Pasadena- <font color="green">OPEN</font>**
+    * **Address:** 3360 Shaver St, Pasadena, TX 77504
+    * **Location Phone Number:** 
+    * **Location Type:** Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+     Directly across the street from Valero gas station. On the corner of Avenue I and Shaver st. Mobile trailer located in the shopping center of taqueria el maizal.
+    * **Solv-Health Appointment Link:** https://www.solvhealth.com/free-covid-testing-site-pasadena-tx-AWEE8v
+    * **Registration Link:** 
 ## Utah
 
 ## Colorado
 
 ## California
+
 
 ## Illinois
