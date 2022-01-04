@@ -6,6 +6,6 @@
 
 * **Start all calls with, "Hi, this is Free Covid testing, what location were you looking to get tested at**
 
-* **Before you shift start you must have Grasshopper, Discord, and this website open**
+* **Before your shift starts you must have Grasshopper, Discord, and this website open**
 
 
