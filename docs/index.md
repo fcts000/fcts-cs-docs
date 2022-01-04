@@ -1,4 +1,4 @@
-# **ALERTS**-<font = "large" color ="red">
+# **ALERTS**-<font size = "large" color ="red">
 
 * **Until further notice all FCTS locations will only be offering Rapid Antigen Tests only. It is still free of charge with or without insurance. Please let all customers know**
 
