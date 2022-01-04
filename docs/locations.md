@@ -5,7 +5,7 @@ www.freecovidtestingsite.com
 
 Use this template for new locations:
 
-1. **City: Location Name - <font color="green">OPEN</font>/<font color="red">CLOSED</font>**
+1. **City: Location Name - <font color="green">OPEN</font>/<font color="red">PERMANENTLY CLOSED</font>/<font color="orange">TEMPORARILY CLOSED</font>**
     * **Address:** Street Address
     * **Location Phone Number:** Store phone number
     * **Location Type:** Office/Store/Parking lot
@@ -16,6 +16,7 @@ Use this template for new locations:
       There is a mobile office trailer parked all the way back in the parking lot.
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  
+    * **Lab Name:**  
 
 
 ## **Delaware/Maryland**
@@ -28,19 +29,31 @@ Use this template for new locations:
     * **Additional notes:**  
       reroute to 1653 Elkton Rd suite F Elkton, MD 21921
     * **Solv-Health Appointment Link:** N/A
-    * **Registration Link:** N/A
+    * **Registration Link:** <https://northshoreclinical.jotform.com/212664803077154>
+    * **Lab name:** Northshore Clinical - 773 570 6510 
+1. **Elkton, MD: FCTS-Elkton - <font color="green">OPEN</font>**
+    * **Address:** 1653 Elkton Rd, Elkton, MD 21921
+    * **Location Phone Number:** 630-885-4672
+    * **Location Type:** Parking lot
+    * **Appointment Required:** Yes
+    * **Timings:** 8am to 8pm, Open 7 days
+    * **Additional notes:**  
+      Stay in your car. Technician will come up to your car and test.
+    * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-elkton-md-AzVYJW>
+    * **Registration Link:** <https://northshoreclinical.jotform.com/212825754532962>
+    * **Lab name:** Northshore Clinical - 773 570 6510 
 1. **Wilmington: FCTS Silverside - <font color="green">OPEN</font>**
     * **Address:** 501 Silverside Rd, Wilmington DE 19809
     * **Location Phone Number:** 
     * **Location Type:** Mobile office in parking lot
-    - **Timings:** 
+    * **Timings:** 
         * 8am to 8pm, Open 7 days
-    - **Additional notes:**  
+    * **Additional notes:**  
       Enter the office building on Carr Rd and drive straight back.  
       There is a mobile office trailer parked all the way back in the parking lot.
-    * **Solv-Health Appointment Link:** https://www.solvhealth.com/free-covid-testing-site-wilmington-de-0ryy3v
-    * **Registration Link:**
-
+    * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-wilmington-de-0ryy3v>
+    * **Registration Link:** <https://northshoreclinical.jotform.com/212664632253150>
+    * **Lab name:** Northshore Clinical - 773 570 6510 
 1. **Wilmington: Testative - Saints Peter and Paul Ukrainian Orthodox Church - <font color="green">OPEN</font>**
     * **Address:** 1406 Philadelphia Pike, Wilmington, DE 19809
     * **Location Phone Number:** 
@@ -50,8 +63,6 @@ Use this template for new locations:
     * **Additional notes:** 
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  
- 
-  
 1. **Claymont - Claymont - <font color="green">OPEN</font>**
     * **Address:** 
     * **Location Phone Number:** 
@@ -60,7 +71,6 @@ Use this template for new locations:
     * **Additional notes:**  
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  
-
 
 ## New York
 1. **Copiague:FCTS-Copiague- <font color="red">CLOSED</font>**
@@ -73,6 +83,8 @@ Use this template for new locations:
      Testing done in the back of the building off of Marconi Blvd
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-copiague-ny-A9QbJ3.>
     * **Registration Link:**  
+    * **Lab name:** Northshore Clinical - 773 570 6510 
+
 ## New Jersey
 
 ## Virginia
@@ -90,6 +102,7 @@ Use this template for new locations:
         The suite next to the pub
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-canton-mi-gKvMx7>
     * **Registration Link:**  
+    * **Lab name:** Northshore Clinical - 773 570 6510 
 1. **Waterford Townships: FCTS-Waterford- <font color="green">OPEN</font>**
     * **Address:** 6650 Highland Rd,Waterford Twp, MI 48327
     * **Location Phone Number:** 
@@ -100,6 +113,7 @@ Use this template for new locations:
         Next to Lady Jane's hair salon
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-waterford-township-mi-gd8nZV#reviews>
     * **Registration Link:**  
+    * **Lab name:** Northshore Clinical - 773 570 6510 
 
 ## Illinois
 
@@ -116,7 +130,7 @@ Use this template for new locations:
      All odd numbered suites are at the back of the building on 8th street. Drive to the back of the building on eighth street and look for suite 117 and park near there. The technician will come up to your car.
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-richmond-tx-AaRR28>
     * **Registration Link:** 
-
+    * **Lab name:** Northshore Clinical - 773 570 6510 
 2. **North Houston:FCTS-Greenpkwy- <font color="green">OPEN</font>**
     * **Address:** 1106 Greens Pkwy, Houston, TX, 77067
     * **Location Phone Number:** 
@@ -127,6 +141,7 @@ Use this template for new locations:
      Mobile unit near the EC learning center parking lot
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-houston-tx-gZeexb>
     * **Registration Link:** 
+    * **Lab name:** Northshore Clinical - 773 570 6510 
 3. **South Houston:FCTS-Telephone- <font color="green">OPEN</font>**
     * **Address:** 4659 Telephone Rd, HoustonTX  77087
     * **Location Phone Number:** 
@@ -137,6 +152,7 @@ Use this template for new locations:
      Extra tips to find the location: in the lot of swift gas station
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-houston-tx-pYOO6l>
     * **Registration Link:** 
+    * **Lab name:** Northshore Clinical - 773 570 6510 
 4. **North Houston:FCTS-Mangum- <font color="green">OPEN</font>**
     * **Address: 2917 Mangum RdHouston, TX 77092**
     * **Location Phone Number:** 
@@ -147,6 +163,7 @@ Use this template for new locations:
      Extra tips to find the location: in the lot of swift gas station
     * **Solv-Health Appointment Link:** 
     * **Registration Link:** 
+    * **Lab name:** Northshore Clinical - 773 570 6510 
 5. **Stafford:FCTS-Stafford- <font color="green">OPEN</font>**
     * **Address: 501 Murphy Rd, Stafford TX 77477**
     * **Location Phone Number:** 
@@ -157,6 +174,7 @@ Use this template for new locations:
      Mobile unit near the EC learning center parking lot
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-stafford-tx-pYJE9g>
     * **Registration Link:** 
+    * **Lab name:** Northshore Clinical - 773 570 6510 
 6. **Pasadena:FCTS-Pasadena- <font color="green">OPEN</font>**
     * **Address: 3360 Shaver St, Pasadena, TX 77504**
     * **Location Phone Number:** 
@@ -167,6 +185,7 @@ Use this template for new locations:
      Directly across the street from Valero gas station. On the corner of Avenue I and Shaver st. Mobile trailer located in the shopping center of taqueria el maizal.
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-pasadena-tx-AWEE8v>
     * **Registration Link:** 
+    * **Lab name:** Northshore Clinical - 773 570 6510 
 ## Utah
 
 ## Colorado
@@ -182,6 +201,7 @@ Use this template for new locations:
       The suite Behind the smoke shop at this address
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-santa-ana-ca-0ry2v4>
     * **Registration Link:**  
+    * **Lab name:** Northshore Clinical - 773 570 6510 
 1. **San Bernardino: FCTS-San Bernardino-<font color="red">PERMANENTLY CLOSED</font>**
     * **Address: 685 E Redlands BlvdSan Bernardino, CA 92408**
     * **Location Phone Number:** 
@@ -192,6 +212,7 @@ Use this template for new locations:
         Closed. Reroute to Long Beach or tell them to visit our website, <freecovidtestingsite.com>
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  
+    * **Lab name:** Northshore Clinical - 773 570 6510 
 1. **Long Beach: FCTS-Long Beach-<font color="Green">OPEN</font>**
     * **Address: 375 Atlantic Ave suite 104, Long Beach, CA  90802**
     * **Location Phone Number:** 
@@ -202,4 +223,5 @@ Use this template for new locations:
         Gps will take you to an apartment building that is across the street from the corner 7-11. The first floor of suites are buisness suites. Look for suite 104 which is right next to Crest Wave Property Management.
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-long-beach-ca-g1P1Wq>
     * **Registration Link:**    
+    * **Lab name:** Northshore Clinical - 773 570 6510 
 ## Illinois
