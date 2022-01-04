@@ -138,7 +138,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-houston-tx-pYOO6l>
     * **Registration Link:** 
 4. **North Houston:FCTS-Mangum- <font color="green">OPEN</font>**
-    * **Address:** 2917 Mangum RdHouston, TX 77092
+    * **Address: 2917 Mangum RdHouston, TX 77092**
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
     * **Appointment Required:** No
@@ -148,7 +148,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** 
     * **Registration Link:** 
 5. **Stafford:FCTS-Stafford- <font color="green">OPEN</font>**
-    * **Address:**501 Murphy Rd, Stafford TX 77477
+    * **Address: 501 Murphy Rd, Stafford TX 77477**
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
     * **Appointment Required:** No
@@ -158,7 +158,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-stafford-tx-pYJE9g>
     * **Registration Link:** 
 6. **Pasadena:FCTS-Pasadena- <font color="green">OPEN</font>**
-    * **Address:** 3360 Shaver St, Pasadena, TX 77504
+    * **Address: 3360 Shaver St, Pasadena, TX 77504**
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
     * **Appointment Required:** yes
@@ -173,7 +173,7 @@ Use this template for new locations:
 
 ## California
 1. **Santa Anna: FCTS-Santa Anna- <font color="green">OPEN</font>**
-    * **Address:**1314 N Grand Ave, Santa Ana, CA 92701
+    * **Address:** **1314 N Grand Ave, Santa Ana, CA 92701**
     * **Location Phone Number:** 
     * **Location Type:** Store
     * **Appointment Required:** No
@@ -183,7 +183,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-santa-ana-ca-0ry2v4>
     * **Registration Link:**  
 1. **San Bernardino: FCTS-San Bernardino-<font color="red">PERMANENTLY CLOSED</font>**
-    * **Address:**685 E Redlands BlvdSan Bernardino, CA 92408
+    * **Address: 685 E Redlands BlvdSan Bernardino, CA 92408**
     * **Location Phone Number:** 
     * **Location Type:** 
     * **Appointment Required:** 
@@ -193,7 +193,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  
 1. **Long Beach: FCTS-Long Beach-<font color="Green">OPEN</font>**
-    * **Address:**375 Atlantic Ave suite 104, Long Beach, CA  90802
+    * **Address: 375 Atlantic Ave suite 104, Long Beach, CA  90802**
     * **Location Phone Number:** 
     * **Location Type:** store
     * **Appointment Required:** No
