@@ -40,7 +40,7 @@
 * **<font color="red">Are we accredited?</font>**
     * **Yes we offer FDA approved tests and have a certified CLEA number which is what is needed to conduct collection of test samples in the US. We also follow all covid safety guidelines given by the CDC(center for disease control).**
 * **<font color="red">What kind of tests do we offer and how long do they take?</font>**
-    * **We require everyone to take the PCR but you can request for the Rapid Antigen Test and the technician will get that to you. Both tests are free of charge with or without insurance.The Rapid antigen takes 10-15 min to get back verbal results. If you do need documentation please let the technician know and they will get that to you via email in up to 24 hours. Usually much quicker just depends on how busy the location is. As for the PCR, the results get sent to the email within 72- 96 hours after the day you get tested, excluding sundays.**
+    * **We require everyone to take the PCR but you can request for the Rapid Antigen Test and the technician will get that to you. Both tests are free of charge with or without insurance.The Rapid antigen takes 10-15 min to get back verbal results. If you do need documentation please let the technician know and they will get that to you via email in up to 24 hours. Usually much quicker just depends on how busy the location is. As for the PCR, the results get sent to the email within 72- 96 hours after the day you get tested, excluding sundays..**
 
 
 
