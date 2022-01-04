@@ -172,7 +172,7 @@ Use this template for new locations:
 ## Colorado
 
 ## California
-1. **Santa Anna: FCTS-Santa Anna-<font color="green">OPEN</font>
+1. **Santa Anna: FCTS-Santa Anna- <font color="green">OPEN</font>**
     * **Address:**1314 N Grand Ave, Santa Ana, CA 92701
     * **Location Phone Number:** 
     * **Location Type:** Store
@@ -182,17 +182,17 @@ Use this template for new locations:
       The suite Behind the smoke shop at this address
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-santa-ana-ca-0ry2v4>
     * **Registration Link:**  
-1. **San Bernardino: FCTS-San Bernardino-<font color="red">PERMANENTLY CLOSED</font>
+1. **San Bernardino: FCTS-San Bernardino-<font color="red">PERMANENTLY CLOSED</font>**
     * **Address:**685 E Redlands BlvdSan Bernardino, CA 92408
     * **Location Phone Number:** 
     * **Location Type:** 
     * **Appointment Required:** 
     * **Timings:** 
     * **Additional notes:**  
-      Closed. Reroute to Long Beach or tell them to visit our website, <freecovidtestingsite.com>
+      * **Closed. Reroute to Long Beach or tell them to visit our website, <freecovidtestingsite.com>**
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  
-1. **Long Beach: FCTS-Long Beach-<font color="Green">OPEN</font>
+1. **Long Beach: FCTS-Long Beach-<font color="Green">OPEN</font>**
     * **Address:**375 Atlantic Ave suite 104, Long Beach, CA  90802
     * **Location Phone Number:** 
     * **Location Type:** store
