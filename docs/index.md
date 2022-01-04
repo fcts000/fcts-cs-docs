@@ -4,8 +4,9 @@
 
 * **In the coming weeks we will be adding locations under the label "Testative". Please be aware of the label for each location**
 
-* **Start all calls with, "Hi, this is Free Covid testing, what location were you looking to get tested at**
+* **Start all calls with, "Hi, this is Free COVID testing. Which state are you calling from?**
 
 * **Before your shift starts you must have Grasshopper, Discord, and this website open**
 
+* **After finishing up a call, switch your view from dialer to messages, and then go back to dialer to refresh incoming call list**
 
