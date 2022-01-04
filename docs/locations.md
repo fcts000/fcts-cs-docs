@@ -188,8 +188,8 @@ Use this template for new locations:
     * **Location Type:** 
     * **Appointment Required:** 
     * **Timings:** 
-    * **Additional notes:**  
-      * **Closed. Reroute to Long Beach or tell them to visit our website, <freecovidtestingsite.com>**
+    * **Additional notes:** 
+        Closed. Reroute to Long Beach or tell them to visit our website, <freecovidtestingsite.com>
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  
 1. **Long Beach: FCTS-Long Beach-<font color="Green">OPEN</font>**
