@@ -19,7 +19,7 @@ Use this template for new locations:
 
 
 ## **Delaware/Maryland**
-1. **Newark: FCTS-Newark - <font color="red">PERMANTELY CLOSED</font>**
+1. **Newark: FCTS-Newark - <font color="red">PERMANENTLY CLOSED</font>**
     * **Address:** 910 S chapel Street, Newark DE 19713
     * **Location Phone Number:** 
     * **Location Type:** 
