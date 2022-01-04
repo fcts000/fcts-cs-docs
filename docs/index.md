@@ -1,17 +1,11 @@
-# Frequenty Asked Questions
+# **ALERTS**-<font = "large" color ="red">
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+* **Until further notice all FCTS locations will only be offering Rapid Antigen Tests only. It is still free of charge with or without insurance. Please let all customers know**
 
-## Commands
+* **In the coming weeks we will be adding locations under the label "Testative". Please be aware of the label for each location**
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* **Start all calls with, "Hi, this is Free Covid testing, what location were you looking to get tested at**
 
-## Project layout
+* **Before you shift start you must have Grasshopper, Discord, and this website open**
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+

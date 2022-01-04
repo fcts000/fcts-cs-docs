@@ -19,22 +19,38 @@ Use this template for new locations:
 
 
 ## **Delaware/Maryland**
+1. **Newark: FCTS-Newark - <font color="red">PERMANTELY CLOSED</font>**
+    * **Address:** 910 S chapel Street, Newark DE 19713
+    * **Location Phone Number:** 
+    * **Location Type:** 
+    * **Appointment Required:** Yes
+    * **Timings:** 8am to 8pm, Open 7 days
+    * **Additional notes:**  
+      reroute to 1653 Elkton Rd suite F Elkton, MD 21921
+    * **Solv-Health Appointment Link:** N/A
+    * **Registration Link:** N/A
 1. **Wilmington: FCTS Silverside - <font color="green">OPEN</font>**
     * **Address:** 501 Silverside Rd, Wilmington DE 19809
-    *  **Location Phone Number:** 
-    1. **Location Type:** Mobile office in parking lot
+    * **Location Phone Number:** 
+    * **Location Type:** Mobile office in parking lot
     - **Timings:** 
         * 8am to 8pm, Open 7 days
     - **Additional notes:**  
       Enter the office building on Carr Rd and drive straight back.  
       There is a mobile office trailer parked all the way back in the parking lot.
+    * **Solv-Health Appointment Link:** https://www.solvhealth.com/free-covid-testing-site-wilmington-de-0ryy3v
+    * **Registration Link:**
+
 1. **Wilmington: Testative - Saints Peter and Paul Ukrainian Orthodox Church - <font color="green">OPEN</font>**
     * **Address:** 1406 Philadelphia Pike, Wilmington, DE 19809
     * **Location Phone Number:** 
     * **Location Type:** Mobile office in parking lot
     * **Timings:** 
         * 8am to 8pm, Open 7 days
-    * **Additional notes:**  
+    * **Additional notes:** 
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+ 
   
 1. **Claymont - Claymont - <font color="green">OPEN</font>**
     * **Address:** 
@@ -42,6 +58,9 @@ Use this template for new locations:
     * **Location Type:** 
     * **Timings:** 8am to 8pm, Open 7 days
     * **Additional notes:**  
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+
 
 ## New York
 1. **Copiague:FCTS-Copiague- <font color="red">CLOSED</font>**
@@ -142,7 +161,7 @@ Use this template for new locations:
     * **Address:** 3360 Shaver St, Pasadena, TX 77504
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
-    * **Appointment Required:** No
+    * **Appointment Required:** yes
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
      Directly across the street from Valero gas station. On the corner of Avenue I and Shaver st. Mobile trailer located in the shopping center of taqueria el maizal.
@@ -153,6 +172,34 @@ Use this template for new locations:
 ## Colorado
 
 ## California
-
-
+1. **Santa Anna: FCTS-Santa Anna-<font color="green">OPEN</font>
+    * **Address:**1314 N Grand Ave, Santa Ana, CA 92701
+    * **Location Phone Number:** 
+    * **Location Type:** Store
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+      The suite Behind the smoke shop at this address
+    * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-santa-ana-ca-0ry2v4>
+    * **Registration Link:**  
+1. **San Bernardino: FCTS-San Bernardino-<font color="red">PERMANENTLY CLOSED</font>
+    * **Address:**685 E Redlands BlvdSan Bernardino, CA 92408
+    * **Location Phone Number:** 
+    * **Location Type:** 
+    * **Appointment Required:** 
+    * **Timings:** 
+    * **Additional notes:**  
+      Closed. Reroute to Long Beach or tell them to visit our website, <freecovidtestingsite.com>
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+1. **Long Beach: FCTS-Long Beach-<font color="Green">OPEN</font>
+    * **Address:**375 Atlantic Ave suite 104, Long Beach, CA  90802
+    * **Location Phone Number:** 
+    * **Location Type:** store
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+        Gps will take you to an apartment building that is across the street from the corner 7-11. The first floor of suites are buisness suites. Look for suite 104 which is right next to Crest Wave Property Management.
+    * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-long-beach-ca-g1P1Wq>
+    * **Registration Link:**    
 ## Illinois
