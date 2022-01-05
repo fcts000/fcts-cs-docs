@@ -5,7 +5,16 @@
 * **<font color="red">Can we test minors(under 18 years of age)?</font>**
     * **Yes as long as the parent or guardian is with them. The parent will be required to test the minor if they are not able to test themselves. If the minor does not have identification we can use the parent or guardian.**
 * **<font color="red">Where are my rapid results?</font>**
-    * **inform patients that they need to wait 12-24 hours. If it is has passed, then collect their first name, last name, date of birth, confirmation number, verbal results given(if not given, its okay), phone number, email address, location of testing**
+    * Inform patients that they need to wait 12-24 hours. If it is has passed, then collect the following:
+        * First Name: 
+        * Last Name:
+        * Date of Birth: 
+        * Confirmation Number:  
+        * Verbal Result: 
+        * Phone Number: 
+        * Email Address:  
+        * Location of Testing: 
+    * Send this information by SMS. Upon receiving response, post it in #rapid-results-channel on discord
 * **<font color="red">Where are my pcr results?</font>**
     * **once the pcr leaves our hands the lab is the only one with access to your results and information. please call the lab at 773-570-6510 or give them an email at results@northshoreclinical.com for all PCR test result inquiries. Thank you!**
 * **<font color="red">What if I don't have a government issued identification?</font>**
