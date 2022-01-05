@@ -31,7 +31,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** N/A
     * **Registration Link:** <https://northshoreclinical.jotform.com/212664803077154>
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
-1. **Elkton, MD: FCTS-Elkton - <font color="green">OPEN</font>**
+1. **Elkton, MD: FCTS-Elkton - <font color="RED">CLOSED TILL 1/6/2022</font>**
     * **Address:** 1653 Elkton Rd, Elkton, MD 21921
     * **Location Phone Number:** 630-885-4672
     * **Location Type:** Parking lot
@@ -42,7 +42,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-elkton-md-AzVYJW>
     * **Registration Link:** <https://northshoreclinical.jotform.com/212825754532962>
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
-1. **Wilmington: FCTS Silverside - <font color="green">OPEN</font>**
+1. **Wilmington: FCTS Silverside - <font color="red">CLOSED TILL 01/06/2022</font>**
     * **Address:** 501 Silverside Rd, Wilmington DE 19809
     * **Location Phone Number:** 
     * **Location Type:** Mobile office in parking lot
@@ -73,7 +73,7 @@ Use this template for new locations:
     * **Registration Link:**  
 
 ## New York
-1. **Copiague:FCTS-Copiague- <font color="red">CLOSED</font>**
+1. **Copiague:FCTS-Copiague- <font color="YELLOW">TEMPORARILY CLOSED</font>**
     * **Address:** 1909 Great Neck RD, Copiague NY 11726
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
