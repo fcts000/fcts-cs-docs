@@ -20,7 +20,7 @@ Use this template for new locations:
 
 
 ## **Delaware/Maryland**
-1. **Newark: FCTS-Newark - <font color="red">PERMANENTLY CLOSED</font>**
+1. **Newark: FCTS-Newark - <font color="red">PERMANENTLY CLOSED - ROUTE TO ELKTON</font>**
     * **Address:** 910 S chapel Street, Newark DE 19713
     * **Location Phone Number:** 
     * **Location Type:** 
@@ -31,7 +31,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** N/A
     * **Registration Link:** <https://northshoreclinical.jotform.com/212664803077154>
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
-1. **Elkton, MD: FCTS-Elkton - <font color="RED">CLOSED TILL 1/6/2022</font>**
+1. **Elkton, MD: FCTS-Elkton - <font color="green">OPEN</font>**
     * **Address:** 1653 Elkton Rd, Elkton, MD 21921
     * **Location Phone Number:** 630-885-4672
     * **Location Type:** Parking lot
@@ -42,7 +42,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-elkton-md-AzVYJW>
     * **Registration Link:** <https://northshoreclinical.jotform.com/212825754532962>
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
-1. **Wilmington: FCTS Silverside - <font color="red">CLOSED TILL 01/06/2022</font>**
+1. **Wilmington: FCTS Silverside - <font color="green">OPEN</font>**
     * **Address:** 501 Silverside Rd, Wilmington DE 19809
     * **Location Phone Number:** 
     * **Location Type:** Mobile office in parking lot
@@ -54,7 +54,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-wilmington-de-0ryy3v>
     * **Registration Link:** <https://northshoreclinical.jotform.com/212664632253150>
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
-1. **Wilmington: Testative - Saints Peter and Paul Ukrainian Orthodox Church - <font color="green">OPEN</font>**
+1. **Wilmington: Testative - Saints Peter and Paul Ukrainian Orthodox Church - <font color="green">OPENING SOON</font>**
     * **Address:** 1406 Philadelphia Pike, Wilmington, DE 19809
     * **Location Phone Number:** 
     * **Location Type:** Mobile office in parking lot
@@ -63,7 +63,7 @@ Use this template for new locations:
     * **Additional notes:** 
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  
-1. **Claymont - Claymont - <font color="green">OPEN</font>**
+1. **Claymont - Claymont -  <font color="green">OPENING SOON</font>**
     * **Address:** 
     * **Location Phone Number:** 
     * **Location Type:** 
@@ -73,7 +73,7 @@ Use this template for new locations:
     * **Registration Link:**  
 
 ## New York
-1. **Copiague:FCTS-Copiague- <font color="YELLOW">TEMPORARILY CLOSED</font>**
+1. **Copiague:FCTS-Copiague- <font color="RED">TEMPORARILY CLOSED</font>**
     * **Address:** 1909 Great Neck RD, Copiague NY 11726
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
@@ -81,6 +81,7 @@ Use this template for new locations:
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
      Testing done in the back of the building off of Marconi Blvd
+     Due to lack of supplies, no tests are being offered at this site.
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-copiague-ny-A9QbJ3.>
     * **Registration Link:**  
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
@@ -175,7 +176,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-stafford-tx-pYJE9g>
     * **Registration Link:** 
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
-6. **Pasadena:FCTS-Pasadena- <font color="green">OPEN</font>**
+6. **Pasadena:FCTS-Pasadena- <font color="red">CLOSED - OUT OF INVENTORY</font>**
     * **Address: 3360 Shaver St, Pasadena, TX 77504**
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
