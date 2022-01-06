@@ -57,6 +57,7 @@ Use this template for new locations:
 1. **Wilmington: Testative - Saints Peter and Paul Ukrainian Orthodox Church - <font color="green">OPENING SOON</font>**
     * **Address:** 1406 Philadelphia Pike, Wilmington, DE 19809
     * **Location Phone Number:** 
+     * **Appointment Required:** No
     * **Location Type:** Mobile office in parking lot
     * **Timings:** 
         * 8am to 8pm, Open 7 days
@@ -93,7 +94,7 @@ Use this template for new locations:
 ## Pennsylvania
 
 ## Michigan
-1. **Canton: FCTS-Canton- <font color="green">OPEN</font>**
+1. **Canton: FCTS-Canton- <font color="RED">CLOSED</font>**
     * **Address:** 7288 Sheldon Rd Canton, MI 48187
     * **Location Phone Number:** 
     * **Location Type:** Office/Store/Parking lot
@@ -143,7 +144,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-houston-tx-gZeexb>
     * **Registration Link:** 
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
-3. **South Houston:FCTS-Telephone- <font color="red">CLOSED</font>**
+3. **South Houston:FCTS-Telephone- <font color="GREEN">OPEN</font>**
     * **Address:** 4659 Telephone Rd, HoustonTX  77087
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
