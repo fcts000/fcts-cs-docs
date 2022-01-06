@@ -121,7 +121,7 @@ Use this template for new locations:
 ## Kentucky
 
 ## Texas
-1. **Richmond:FCTS-Richmond- <font color="green">OPEN</font>**
+1. **Richmond:FCTS-Richmond- <font color="red">CLOSED</font>**
     * **Address:** 301 S 9th St suite 117, Richmond TX 77469
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
@@ -132,7 +132,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-richmond-tx-AaRR28>
     * **Registration Link:** 
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
-2. **North Houston:FCTS-Greenpkwy- <font color="green">OPEN</font>**
+2. **North Houston:FCTS-Greenpkwy- <font color="red">CLOSED</font>**
     * **Address:** 1106 Greens Pkwy, Houston, TX, 77067
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
@@ -143,7 +143,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-houston-tx-gZeexb>
     * **Registration Link:** 
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
-3. **South Houston:FCTS-Telephone- <font color="green">OPEN</font>**
+3. **South Houston:FCTS-Telephone- <font color="red">CLOSED</font>**
     * **Address:** 4659 Telephone Rd, HoustonTX  77087
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
