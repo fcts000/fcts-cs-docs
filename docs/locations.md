@@ -32,13 +32,13 @@ Use this template for new locations:
     * **Registration Link:** <https://northshoreclinical.jotform.com/212664803077154>
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
 1. **Elkton, MD: FCTS-Elkton - <font color="green">OPEN</font>**
-    * **Address:** 1653 Elkton Rd, Elkton, MD 21921
+    * **Address:** 1653 Elkton Rd suite F, Elkton, MD 21921
     * **Location Phone Number:** 630-885-4672
     * **Location Type:** Parking lot
     * **Appointment Required:** Yes
     * **Timings:** 8am to 8pm, Open 7 days
     * **Additional notes:**  
-      Stay in your car. Technician will come up to your car and test.
+      Stay in your car. Technician will come up to your car and test. On the right side of nick and joes pizza. Drive up to suite F and the technician will come up to you car
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-elkton-md-AzVYJW>
     * **Registration Link:** <https://northshoreclinical.jotform.com/212825754532962>
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
@@ -122,22 +122,22 @@ Use this template for new locations:
 ## Kentucky
 
 ## Texas
-1. **Richmond:FCTS-Richmond- <font color="red">CLOSED</font>**
+1. **Richmond:FCTS-Richmond- <font color="red">OPEN</font>**
     * **Address:** 301 S 9th St suite 117, Richmond TX 77469
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
-    * **Appointment Required:** Yes
+    * **Appointment Required:** YES
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
      All odd numbered suites are at the back of the building on 8th street. Drive to the back of the building on eighth street and look for suite 117 and park near there. The technician will come up to your car.
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-richmond-tx-AaRR28>
     * **Registration Link:** 
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
-2. **North Houston:FCTS-Greenpkwy- <font color="red">CLOSED</font>**
+2. **North Houston:FCTS-Greenpkwy- <font color="red">OPEN</font>**
     * **Address:** 1106 Greens Pkwy, Houston, TX, 77067
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
-    * **Appointment Required:** No
+    * **Appointment Required:** NO
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
      Mobile unit near the EC learning center parking lot
@@ -148,7 +148,7 @@ Use this template for new locations:
     * **Address:** 4659 Telephone Rd, HoustonTX  77087
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
-    * **Appointment Required:** No
+    * **Appointment Required:** YES
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
      Extra tips to find the location: in the lot of swift gas station
