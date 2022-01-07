@@ -197,7 +197,7 @@ Use this template for new locations:
     * **Address:** **1314 N Grand Ave, Santa Ana, CA 92701**
     * **Location Phone Number:** 
     * **Location Type:** Store
-    * **Appointment Required:** Yes - After 12pm
+    * **Appointment Required:** NO
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
       The suite Behind the smoke shop at this address
@@ -219,7 +219,7 @@ Use this template for new locations:
     * **Address: 375 Atlantic Ave suite 104, Long Beach, CA  90802**
     * **Location Phone Number:** 
     * **Location Type:** store
-    * **Appointment Required:** Yes - After 12pm
+    * **Appointment Required:** NO
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
         Gps will take you to an apartment building that is across the street from the corner 7-11. The first floor of suites are buisness suites. Look for suite 104 which is right next to Crest Wave Property Management.
