@@ -31,6 +31,17 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** N/A
     * **Registration Link:** <https://northshoreclinical.jotform.com/212664803077154>
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
+1. **Newark: Testative-Newark - <font color="green">OPEN</font>**
+    * **Address:** 1450 Capitol Trail, Suite 7, Newark DE 19711
+    * **Location Phone Number:** 630-768-8554
+    * **Location Type:** Store
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+      Located in red-mill plaza. Turn left upon entering the plaza.
+    * **Solv-Health Appointment Link:** Not setup yet. Will be updated soon
+    * **Registration Link:** 
+    * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
 1. **Elkton, MD: FCTS-Elkton - <font color="green">OPEN</font>**
     * **Address:** 1653 Elkton Rd suite F, Elkton, MD 21921
     * **Location Phone Number:** 630-885-4672
@@ -54,22 +65,24 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-wilmington-de-0ryy3v>
     * **Registration Link:** <https://northshoreclinical.jotform.com/212664632253150>
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
-1. **Wilmington: Testative - Saints Peter and Paul Ukrainian Orthodox Church - <font color="green">OPENING SOON</font>**
+1. **Wilmington: Testative - Saints Peter and Paul Ukrainian Orthodox Church - <font color="green">OPEN</font>**
     * **Address:** 1406 Philadelphia Pike, Wilmington, DE 19809
     * **Location Phone Number:** 
      * **Appointment Required:** No
     * **Location Type:** Mobile office in parking lot
     * **Timings:** 
-        * 8am to 8pm, Open 7 days
+        * 8am to 7pm, Open 7 days
     * **Additional notes:** 
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  
-1. **Claymont - Claymont -  <font color="green">OPENING SOON</font>**
-    * **Address:** 
+1. **Claymont - Claymont -  <font color="green">OPEN</font>**
+    * **Address:** 3512 Philadelphia Pike, Claymont	DE 19703
     * **Location Phone Number:** 
-    * **Location Type:** 
-    * **Timings:** 8am to 8pm, Open 7 days
-    * **Additional notes:**  
+     * **Appointment Required:** No
+    * **Location Type:** Mobile office in parking lot
+    * **Timings:** 
+        * 8am to 7pm, Open 7 days
+    * **Additional notes:** 
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  
 
