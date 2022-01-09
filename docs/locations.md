@@ -20,7 +20,7 @@ Use this template for new locations:
 
 
 ## **Delaware/Maryland**
-1. **Newark: FCTS-Newark - <font color="red">PERMANENTLY CLOSED - ROUTE TO ELKTON</font>**
+1. **Newark: FCTS-Newark - <font color="red">PERMANENTLY CLOSED - ROUTE TO ELKTON or other NEWARK Location</font>**
     * **Address:** 910 S chapel Street, Newark DE 19713
     * **Location Phone Number:** 
     * **Location Type:** 
@@ -210,7 +210,7 @@ Use this template for new locations:
     * **Address:** **1314 N Grand Ave, Santa Ana, CA 92701**
     * **Location Phone Number:** 
     * **Location Type:** Store
-    * **Appointment Required:** NO
+    * **Appointment Required:** YES
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
       The suite Behind the smoke shop at this address
@@ -232,7 +232,7 @@ Use this template for new locations:
     * **Address: 375 Atlantic Ave suite 104, Long Beach, CA  90802**
     * **Location Phone Number:** 
     * **Location Type:** store
-    * **Appointment Required:** NO
+    * **Appointment Required:** YES
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
         Gps will take you to an apartment building that is across the street from the corner 7-11. The first floor of suites are buisness suites. Look for suite 104 which is right next to Crest Wave Property Management.
