@@ -87,7 +87,7 @@ Use this template for new locations:
     * **Registration Link:**  
 
 ## New York
-1. **Copiague:FCTS-Copiague- <font color="RED">TEMPORARILY CLOSED</font>**
+1. **Copiague:FCTS-Copiague- <font color="RED">PERMANENTLY CLOSED</font>**
     * **Address:** 1909 Great Neck RD, Copiague NY 11726
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
@@ -107,7 +107,7 @@ Use this template for new locations:
 ## Pennsylvania
 
 ## Michigan
-1. **Canton: FCTS-Canton- <font color="RED">CLOSED</font>**
+1. **Canton: FCTS-Canton- <font color="green">OPEN</font>**
     * **Address:** 7288 Sheldon Rd Canton, MI 48187
     * **Location Phone Number:** 
     * **Location Type:** Office/Store/Parking lot
@@ -206,7 +206,7 @@ Use this template for new locations:
 ## Colorado
 
 ## California
-1. **Santa Anna: FCTS-Santa Anna- <font color="green">OPEN</font>**
+1. **Santa Anna: FCTS-Santa Anna- <font color="red">CLOSED - NO INVENTORY</font>**
     * **Address:** **1314 N Grand Ave, Santa Ana, CA 92701**
     * **Location Phone Number:** 
     * **Location Type:** Store
@@ -228,7 +228,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
-1. **Long Beach: FCTS-Long Beach-<font color="Green">OPEN</font>**
+1. **Long Beach: FCTS - Long Beach - <font color="red">CLOSED - NO INVENTORY</font>**
     * **Address: 375 Atlantic Ave suite 104, Long Beach, CA  90802**
     * **Location Phone Number:** 
     * **Location Type:** store
