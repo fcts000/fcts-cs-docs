@@ -29,7 +29,7 @@ Use this template for new locations:
     * **Additional notes:**  
       reroute to 1653 Elkton Rd suite F Elkton, MD 21921
     * **Solv-Health Appointment Link:** N/A
-    * **Registration Link:** <https://northshoreclinical.jotform.com/212664803077154>
+    * **Registration Link:** <https://northshoreclinical.jotform.com/212664803077154>   
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
 1. **Newark: Testative-Newark - <font color="green">OPEN</font>**
     * **Address:** 1450 Capitol Trail, Suite 7, Newark DE 19711
@@ -75,7 +75,7 @@ Use this template for new locations:
     * **Additional notes:** 
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  
-1. **Claymont - Claymont -  <font color="green">OPEN</font>**
+1. **Claymont - Testative - Claymont -  <font color="green">OPEN</font>**
     * **Address:** 3512 Philadelphia Pike, Claymont	DE 19703
     * **Location Phone Number:** 
      * **Appointment Required:** No
@@ -87,7 +87,7 @@ Use this template for new locations:
     * **Registration Link:**  
 
 ## New York
-1. **Copiague:FCTS-Copiague- <font color="RED">PERMANENTLY CLOSED</font>**
+1. **Copiague:FCTS-Copiague- <font color="RED">TEMPORARILY CLOSED</font>**
     * **Address:** 1909 Great Neck RD, Copiague NY 11726
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
@@ -99,7 +99,18 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-copiague-ny-A9QbJ3.>
     * **Registration Link:**  
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
-
+1. **Dover: Testative- Dover - <font color="green">OPEN</font>/<font color="red">PERMANENTLY CLOSED</font>/<font color="orange">TEMPORARILY CLOSED</font>**
+    * **Address:** 2089 S Dupont Hwy, Dover DE 19901
+    * **Location Phone Number:** Store phone number
+    * **Location Type:** Office/Store/Parking lot
+    * **Appointment Required:** Yes
+    * **Timings:** 8am to 8pm, Open 7 days
+    * **Additional notes:**  
+      Enter the office building on Carr Rd and drive straight back.  
+      There is a mobile office trailer parked all the way back in the parking lot.
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+    * **Lab Name:**  
 ## New Jersey
 
 ## Virginia
@@ -107,7 +118,7 @@ Use this template for new locations:
 ## Pennsylvania
 
 ## Michigan
-1. **Canton: FCTS-Canton- <font color="green">OPEN</font>**
+1. **Canton: FCTS-Canton- <font color="RED">CLOSED</font>**
     * **Address:** 7288 Sheldon Rd Canton, MI 48187
     * **Location Phone Number:** 
     * **Location Type:** Office/Store/Parking lot
@@ -202,11 +213,44 @@ Use this template for new locations:
     * **Registration Link:** 
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
 ## Utah
+1. **Springville: Testative-Springville - <font color="green">OPEN</font>/<font color="red">PERMANENTLY CLOSED</font>/<font color="orange">TEMPORARILY CLOSED</font>**
+    * **Address:** 685 South Main Street,Springville,UT 84663
+    * **Location Phone Number:** Store phone number
+    * **Location Type:** Office/Store/Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+    * **Lab Name:**  
+1. **South Salt Lake : Testative - Salt Lake City  - <font color="green">OPEN</font>/<font color="red">PERMANENTLY CLOSED</font>/<font color="orange">TEMPORARILY CLOSED</font>**
+    * **Address:** 3443 S State St, Unit 19 South Salt Lake, UT 84115
+    * **Location Phone Number:** Store phone number
+    * **Location Type:** Office/Store/Parking lot
+    * **Appointment Required:** Yes
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+    * **Lab Name:**  
+1. **Murray: Testative - Murray  Name - <font color="green">OPEN</font>/<font color="red">PERMANENTLY CLOSED</font>/<font color="orange">TEMPORARILY CLOSED</font>**
+    * **Address:** 845 E 4800 S #120, Murray UT 84107
+    * **Location Phone Number:** Store phone number
+    * **Location Type:** Office/Store/Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+      
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+    * **Lab Name:**  
 
 ## Colorado
 
 ## California
-1. **Santa Anna: FCTS-Santa Anna- <font color="red">CLOSED - NO INVENTORY</font>**
+1. **Santa Anna: FCTS-Santa Anna- <font color="green">OPEN</font>**
     * **Address:** **1314 N Grand Ave, Santa Ana, CA 92701**
     * **Location Phone Number:** 
     * **Location Type:** Store
@@ -228,7 +272,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
-1. **Long Beach: FCTS - Long Beach - <font color="red">CLOSED - NO INVENTORY</font>**
+1. **Long Beach: FCTS-Long Beach-<font color="Green">OPEN</font>**
     * **Address: 375 Atlantic Ave suite 104, Long Beach, CA  90802**
     * **Location Phone Number:** 
     * **Location Type:** store
@@ -240,3 +284,24 @@ Use this template for new locations:
     * **Registration Link:**    
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com - results@northshoreclinical.com
 ## Illinois
+1. **Des Plaines: Testative -Des plaines- <font color="green">OPEN</font>/<font color="red">PERMANENTLY CLOSED</font>/<font color="orange">TEMPORARILY CLOSED</font>**
+    * **Address:** 8977 Potter Rd,Des Plaines IL, 60016
+    * **Location Phone Number:** Store phone number
+    * **Location Type:** Office/Store/Parking lot
+    * **Appointment Required:** Yes
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+      
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+    * **Lab Name:**  
+1. **Chicago: Testative - Chicago - <font color="green">OPEN</font>/<font color="red">PERMANENTLY CLOSED</font>/<font color="orange">TEMPORARILY CLOSED</font>**
+    * **Address:** 6331 N Pulaski Rd, Chicago, IL 60646
+    * **Location Phone Number:** Store phone number
+    * **Location Type:** Office/Store/Parking lot
+    * **Appointment Required:** Yes
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+    * **Lab Name:**  
