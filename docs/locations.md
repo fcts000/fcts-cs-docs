@@ -208,7 +208,7 @@ Use this template for new locations:
     * **Appointment Required:** No
     * **Timings:** 8am to 8pm, Open 7 days
     * **Additional notes:**  
-     Mobile unit near the EC learning center parking lot
+     In the parking lot by tornado burger and El Regio Mexican Grill & Bar
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-stafford-tx-pYJE9g>
     * **Registration Link:** 
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
