@@ -96,7 +96,16 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  
     * **Lab Name:**  
-
+1. **Kirkwood Hwy: Testative-Kirkwood - <font color="green">OPEN</font>**
+    * **Address:** 3600 Kirkwood Hwy,Wilmington	DE 19808
+    * **Location Phone Number:** 
+    * **Location Type:** 
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**
+    * **Solv-Health Appointment Link:** Not setup yet. Will be updated soon
+    * **Registration Link:** 
+    * **Lab name:** Lab Care
 ## New York
 1. **Copiague:FCTS-Copiague- <font color="RED">TEMPORARILY CLOSED</font>**
     * **Address:** 1909 Great Neck RD, Copiague NY 11726
@@ -112,6 +121,39 @@ Use this template for new locations:
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
 
 ## New Jersey
+1. **Camden: Testative - Camden - <font color="orange">OPENING SOON</font>**
+    * **Address:** 529 Market Street, Camden NJ	08102
+    * **Location Phone Number:** 
+    * **Location Type:** Office/Store/Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+    * **Lab Name:**  LAB CARE 
+1. **Hackensack: Testative - Hackensack - <font color="orange">OPENING SOON</font>**
+    * **Address:** 294-298 State St, Hackensack	NJ 07601
+    * **Location Phone Number:** 
+    * **Location Type:** Office/Store/Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+    * **Lab Name:**  LAB CARE 
+
+##Wisconsin
+1. **Milwaukee: Testative - Milwaukee - <font color="green">OPEN</font>**
+    * **Address:** 4435 W. Oklahoma Ave Milwaukee WI 53219
+    * **Location Phone Number:** 872-639-3005
+    * **Location Type:** Store front 
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**
+     Entrance is on Oklahoma Ave. Walk up to the second floor unit. 2 hour street parking on both sides of Oklahoma ave and 45th street.
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  https://forms.oclsolutions.com/220054191485856
+    * **Lab Name:**  Lab Care
 
 ## Virginia
 1. **Fredericksburg: Testative-Fredericksburg - <font color="green">OPEN</font>**
@@ -127,7 +169,26 @@ Use this template for new locations:
     * **Lab name:** Labcare - 847-792-1169 - labcarechicago@gmail.com
 
 ## Pennsylvania
-
+1. **Philadelphia: Testative - Philidelphia - <font color="orange">OPENING SOON</font>**
+    * **Address:** 3751 Island Ave, Philadelphia PA	19153
+    * **Location Phone Number:** 
+    * **Location Type:** Office/Store/Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+    * **Lab Name:**  LAB CARE 
+1. **West Chester: Testative - West Chester - <font color="orange">OPENING SOON</font>**
+    * **Address:** 929 S High St Suite 11, West Chester	PA 19382
+    * **Location Phone Number:** 
+    * **Location Type:** Office/Store/Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+    * **Lab Name:**  LAB CARE 
 ## Michigan
 1. **Canton: FCTS-Canton- <font color="RED">CLOSED</font>**
     * **Address:** 7288 Sheldon Rd Canton, MI 48187
@@ -151,11 +212,100 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-waterford-township-mi-gd8nZV#reviews>
     * **Registration Link:**  
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
+1. **Taylor: Testative - Taylor - <font color="orange">OPENING SOON</font>**
+    * **Address:** 22391 Ecorse Rd, Taylor MI 48180
+    * **Location Phone Number:** Store phone number
+    * **Location Type:** Office/Store/Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+    * **Lab Name:**  Lab Care
 
 ## Illinois
-
+1. **Des Plaines: Testative - Des plaines - <font color="orange">OPENING SOON</font>**
+    * **Address:** 8977 Potter Rd,Des Plaines IL, 60016
+    * **Location Phone Number:** Store phone number
+    * **Location Type:** Office/Store/Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+    * **Lab Name:**  
+1. **Chicago: Testative - Chicago-Pulaski - <font color="orange">OPENING SOON</font>**
+    * **Address:** 6331 N Pulaski Rd, Chicago, IL 60646
+    * **Location Phone Number:** Store phone number
+    * **Location Type:** Office/Store/Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+    * **Lab Name:**  LAB CARE 
+1. **Chicago: Testative - Chicago-Western - <font color="orange">OPENING SOON</font>**
+    * **Address:** 6228 S Western Ave, Chicago, IL 60636
+    * **Location Phone Number:** 
+    * **Location Type:** Office/Store/Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+    * **Lab Name:**  LAB CARE 
+1. **Elgin: Testative - Elgin - <font color="orange">OPENING SOON</font>**
+    * **Address:** 1900 Larkin Ave. Unit C3, Elgin IL 60123
+    * **Location Phone Number:** 
+    * **Location Type:** Office/Store/Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+    * **Lab Name:**  LAB CARE 
+1. **Itasca: Testative - Itasca - <font color="orange">OPENING SOON</font>**
+    * **Address:** 127 W Walnut St, Itasca IL 60143
+    * **Location Phone Number:** 
+    * **Location Type:** Office/Store/Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+    * **Lab Name:**  LAB CARE 
+##Indiana
+1. **Marion: Testative - Marion - <font color="orange">OPENING SOON</font>**
+    * **Address:** 702 S. Baldwin Ave, Marion IN 46953
+    * **Location Phone Number:** 
+    * **Location Type:** Office/Store/Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+    * **Lab Name:**  LAB CARE 
 ## Kentucky
-
+1. **Louisville: Testative - Louisville - Broadway - <font color="orange">OPENING SOON</font>**
+    * **Address:**3050 W. Broadway, Louisville KY 40211
+    * **Location Phone Number:** 
+    * **Location Type:** Office/Store/Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+    * **Lab Name:**  LAB CARE 
+1. **Louisville: Testative - Louisville - Poplar - <font color="orange">OPENING SOON</font>**
+    * **Address:** 4930 Poplar Level Rd, Louisville KY 40213
+    * **Location Phone Number:** 
+    * **Location Type:** Office/Store/Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+    * **Lab Name:**  LAB CARE 
 ## Texas
 1. **Richmond:FCTS-Richmond- <font color="red">CLOSED</font>**
     * **Address:** 301 S 9th St suite 117, Richmond TX 77469
@@ -223,7 +373,36 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-pasadena-tx-AWEE8v>
     * **Registration Link:** 
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
-
+1. **Portland: Testative - Portland - <font color="orange">OPENING SOON</font>**
+    * **Address:**712 Moore Ave, Portland TX 78374
+    * **Location Phone Number:** Store phone number
+    * **Location Type:** Office/Store/Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+    * **Lab Name:**  Lab Care
+1. **Corpus Christi: Testative - Corpus Christi - <font color="orange">OPENING SOON</font>**
+    * **Address:** 5876b Evehart Rd, Corpus Christi	TX 78413
+    * **Location Phone Number:** Store phone number
+    * **Location Type:** Office/Store/Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+    * **Lab Name:**  Lab Care
+1. **Spring: Testative - Spring - <font color="orange">OPENING SOON</font>**
+    * **Address:** 3315 Spring Cypress Rd, Spring TX77388
+    * **Location Phone Number:** Store phone number
+    * **Location Type:** Office/Store/Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**  
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+    * **Lab Name:**  Lab Care
 ## Utah
 1. **Springville: Testative-Springville - <font color="green">OPEN</font>**
     * **Address:** 685 South Main Street,Springville,UT 84663
@@ -293,24 +472,4 @@ Use this template for new locations:
     * **Registration Link:**    
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com - results@northshoreclinical.com
 
-## Illinois
-1. **Des Plaines: Testative - Des plaines - <font color="orange">OPENING SOON</font>**
-    * **Address:** 8977 Potter Rd,Des Plaines IL, 60016
-    * **Location Phone Number:** Store phone number
-    * **Location Type:** Office/Store/Parking lot
-    * **Appointment Required:** Yes
-    * **Timings:** 8am to 7pm, Open 7 days
-    * **Additional notes:**  
-    * **Solv-Health Appointment Link:** 
-    * **Registration Link:**  
-    * **Lab Name:**  
-1. **Chicago: Testative - Chicago - <font color="orange">OPENING SOON</font>**
-    * **Address:** 6331 N Pulaski Rd, Chicago, IL 60646
-    * **Location Phone Number:** Store phone number
-    * **Location Type:** Office/Store/Parking lot
-    * **Appointment Required:** Yes
-    * **Timings:** 8am to 7pm, Open 7 days
-    * **Additional notes:**  
-    * **Solv-Health Appointment Link:** 
-    * **Registration Link:**  
-    * **Lab Name:**  
+
