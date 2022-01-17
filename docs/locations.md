@@ -383,7 +383,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  
     * **Lab Name:**  Lab Care
-1. **Corpus Christi: Testative - Corpus Christi - <font color="orange">OPENING SOON</font>**
+1. **Corpus Christi: Testative - Corpus Christi - <font color="green">OPEN</font>**
     * **Address:** 5876b Evehart Rd, Corpus Christi	TX 78413
     * **Location Phone Number:** Store phone number
     * **Location Type:** Office/Store/Parking lot
