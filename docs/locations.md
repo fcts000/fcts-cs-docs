@@ -286,10 +286,10 @@ Use this template for new locations:
     * **Registration Link:**  
     * **Lab Name:**  LAB CARE 
 ## Kentucky
-1. **Louisville: Testative - Louisville - Broadway - <font color="orange">OPENING SOON</font>**
+1. **Louisville: Testative - Louisville - Broadway - <font color="orange">OPEN</font>**
     * **Address:**3050 W. Broadway, Louisville KY 40211
     * **Location Phone Number:** 
-    * **Location Type:** Office/Store/Parking lot
+    * **Location Type:** Parking lot
     * **Appointment Required:** No
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
