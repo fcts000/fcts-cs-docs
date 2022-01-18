@@ -40,7 +40,7 @@ Use this template for new locations:
     * **Additional notes:**  
       Located in red-mill plaza. Turn left upon entering the plaza.
     * **Solv-Health Appointment Link:** Not setup yet. Will be updated soon
-    * **Registration Link:** 
+    * **Registration Link:** <https://forms.oclsolutions.com/220054935112849>
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
 1. **Elkton, MD: FCTS-Elkton - <font color="red">TEMPORARILY CLOSED</font>**
     * **Address:** 1653 Elkton Rd suite F, Elkton, MD 21921
@@ -74,7 +74,7 @@ Use this template for new locations:
         * 8am to 7pm, Open 7 days
     * **Additional notes:** 
     * **Solv-Health Appointment Link:** 
-    * **Registration Link:** https://forms.oclsolutions.com/220055035445850  
+    * **Registration Link:** <https://forms.oclsolutions.com/220055035445850>  
 1. **Claymont - Testative - Claymont -  <font color="green">OPEN</font>**
     * **Address:** 3512 Philadelphia Pike, Claymont	DE 19703
     * **Location Phone Number:** 
@@ -84,7 +84,7 @@ Use this template for new locations:
         * 8am to 7pm, Open 7 days
     * **Additional notes:** Next to Claymont Steak Shop on Philadelphia Pike
     * **Solv-Health Appointment Link:** 
-    * **Registration Link:** https://forms.oclsolutions.com/220054945906861
+    * **Registration Link:** <https://forms.oclsolutions.com/220054945906861>
 1. **Dover: Testative- Dover - <font color="green">OPEN</font>**
     * **Address:** 2089 S Dupont Hwy, Dover DE 19901
     * **Location Phone Number:** 
@@ -94,8 +94,8 @@ Use this template for new locations:
     * **Additional notes:**  
       Entrance is located on right side of the building. Second floor, first office on left.  
     * **Solv-Health Appointment Link:** 
-    * **Registration Link:** https://forms.oclsolutions.com/220054862332852
-    * **Lab Name:**  
+    * **Registration Link:** <https://forms.oclsolutions.com/220054862332852>
+    * **Lab Name:**  Lab Care
 1. **Kirkwood Hwy: Testative-Kirkwood - <font color="green">OPEN</font>**
     * **Address:** 3600 Kirkwood Hwy,Wilmington	DE 19808
     * **Location Phone Number:** 
@@ -104,7 +104,7 @@ Use this template for new locations:
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**
     * **Solv-Health Appointment Link:** Not setup yet. Will be updated soon
-    * **Registration Link:** 
+    * **Registration Link:** <https://forms.oclsolutions.com/220054042834849>
     * **Lab name:** Lab Care
 ## New York
 1. **Copiague:FCTS-Copiague- <font color="RED">TEMPORARILY CLOSED</font>**
@@ -129,7 +129,7 @@ Use this template for new locations:
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
     * **Solv-Health Appointment Link:** 
-    * **Registration Link:** https://forms.oclsolutions.com/220054765683863  
+    * **Registration Link:** <https://forms.oclsolutions.com/220054765683863>  
     * **Lab Name:**  LAB CARE 
 1. **Hackensack: Testative - Hackensack - <font color="orange">OPENING SOON</font>**
     * **Address:** 294-298 State St, Hackensack	NJ 07601
@@ -139,7 +139,7 @@ Use this template for new locations:
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
     * **Solv-Health Appointment Link:** 
-    * **Registration Link:**  https://forms.oclsolutions.com/220053828093857
+    * **Registration Link:**  <https://forms.oclsolutions.com/220053828093857>
     * **Lab Name:**  LAB CARE 
 
 ##Wisconsin
@@ -152,7 +152,7 @@ Use this template for new locations:
     * **Additional notes:**
      Entrance is on Oklahoma Ave. Walk up to the second floor unit. 2 hour street parking on both sides of Oklahoma ave and 45th street.
     * **Solv-Health Appointment Link:** 
-    * **Registration Link:**  https://forms.oclsolutions.com/220054191485856
+    * **Registration Link:**  <https://forms.oclsolutions.com/220054191485856>
     * **Lab Name:**  Lab Care
 
 ## Virginia
@@ -165,7 +165,7 @@ Use this template for new locations:
     * **Additional notes:**  
         Located on the left side of the building. Enter through side door
     * **Solv-Health Appointment Link:** 
-    * **Registration Link:**  https://forms.oclsolutions.com/220053914530849
+    * **Registration Link:**  <https://forms.oclsolutions.com/220053914530849>
     * **Lab name:** Labcare - 847-792-1169 - labcarechicago@gmail.com
 
 ## Pennsylvania
@@ -177,7 +177,7 @@ Use this template for new locations:
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
     * **Solv-Health Appointment Link:** 
-    * **Registration Link:** https://forms.oclsolutions.com/220053840035847 
+    * **Registration Link:** <https://forms.oclsolutions.com/220053840035847> 
     * **Lab Name:**  LAB CARE 
 1. **West Chester: Testative - West Chester - <font color="orange">OPENING SOON</font>**
     * **Address:** 929 S High St Suite 11, West Chester	PA 19382
@@ -187,7 +187,7 @@ Use this template for new locations:
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
     * **Solv-Health Appointment Link:** 
-    * **Registration Link:**  https://forms.oclsolutions.com/220054025260843
+    * **Registration Link:**  <https://forms.oclsolutions.com/220054025260843>
     * **Lab Name:**  LAB CARE 
 ## Michigan
 1. **Canton: FCTS-Canton- <font color="RED">CLOSED</font>**
@@ -220,7 +220,7 @@ Use this template for new locations:
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
     * **Solv-Health Appointment Link:** 
-    * **Registration Link:** https://forms.oclsolutions.com/220055033031839  
+    * **Registration Link:** <https://forms.oclsolutions.com/220055033031839>  
     * **Lab Name:**  Lab Care
 
 ## Illinois
@@ -232,7 +232,7 @@ Use this template for new locations:
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
     * **Solv-Health Appointment Link:** 
-    * **Registration Link:** https://forms.oclsolutions.com/220054061674852  
+    * **Registration Link:** <https://forms.oclsolutions.com/220054061674852>  
     * **Lab Name:**  
 1. **Chicago: Testative - Chicago-Pulaski - <font color="orange">OPENING SOON</font>**
     * **Address:** 6331 N Pulaski Rd, Chicago, IL 60646
@@ -242,7 +242,7 @@ Use this template for new locations:
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
     * **Solv-Health Appointment Link:** 
-    * **Registration Link:** https://forms.oclsolutions.com/220054113606845  
+    * **Registration Link:** <https://forms.oclsolutions.com/220054113606845>  
     * **Lab Name:**  LAB CARE 
 1. **Chicago: Testative - Chicago-Western - <font color="orange">OPENING SOON</font>**
     * **Address:** 6228 S Western Ave, Chicago, IL 60636
@@ -252,7 +252,7 @@ Use this template for new locations:
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
     * **Solv-Health Appointment Link:** 
-    * **Registration Link:** https://forms.oclsolutions.com/220054144558855 
+    * **Registration Link:** <https://forms.oclsolutions.com/220054144558855> 
     * **Lab Name:**  LAB CARE 
 1. **Elgin: Testative - Elgin - <font color="orange">OPENING SOON</font>**
     * **Address:** 1900 Larkin Ave. Unit C3, Elgin IL 60123
@@ -262,7 +262,7 @@ Use this template for new locations:
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
     * **Solv-Health Appointment Link:** 
-    * **Registration Link:**  https://forms.oclsolutions.com/220054134090845
+    * **Registration Link:**  <https://forms.oclsolutions.com/220054134090845>
     * **Lab Name:**  LAB CARE 
 1. **Itasca: Testative - Itasca - <font color="orange">OPENING SOON</font>**
     * **Address:** 127 W Walnut St, Itasca IL 60143
@@ -272,7 +272,7 @@ Use this template for new locations:
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
     * **Solv-Health Appointment Link:** 
-    * **Registration Link:** https://forms.oclsolutions.com/220054945840858 
+    * **Registration Link:** <https://forms.oclsolutions.com/220054945840858> 
     * **Lab Name:**  LAB CARE 
 ##Indiana
 1. **Marion: Testative - Marion - <font color="orange">OPENING SOON</font>**
@@ -283,7 +283,7 @@ Use this template for new locations:
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
     * **Solv-Health Appointment Link:** 
-    * **Registration Link:** https://forms.oclsolutions.com/220054753362854 
+    * **Registration Link:** <https://forms.oclsolutions.com/220054753362854> 
     * **Lab Name:**  LAB CARE 
 ## Kentucky
 1. **Louisville: Testative - Louisville - Broadway - <font color="GREEN">OPEN</font>**
@@ -294,17 +294,17 @@ Use this template for new locations:
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
     * **Solv-Health Appointment Link:** 
-    * **Registration Link:**  https://forms.oclsolutions.com/220054916158858
+    * **Registration Link:**  <https://forms.oclsolutions.com/220054916158858>
     * **Lab Name:**  LAB CARE 
 1. **Louisville: Testative - Louisville - Poplar - <font color="orange">OPENING SOON</font>**
     * **Address:** 4930 Poplar Level Rd, Louisville KY 40213
     * **Location Phone Number:** 
-    * **Location Type:** Office/Store/Parking lot
+    * **Location Type:** Parking lot
     * **Appointment Required:** No
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
     * **Solv-Health Appointment Link:** 
-    * **Registration Link:** https://forms.oclsolutions.com/220054462879864  
+    * **Registration Link:** <https://forms.oclsolutions.com/220054462879864>  
     * **Lab Name:**  LAB CARE 
 ## Texas
 1. **Richmond:FCTS-Richmond- <font color="red">CLOSED</font>**
@@ -381,7 +381,7 @@ Use this template for new locations:
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
     * **Solv-Health Appointment Link:** 
-    * **Registration Link:**  https://forms.oclsolutions.com/220054749650859
+    * **Registration Link:**  <https://forms.oclsolutions.com/220054749650859>
     * **Lab Name:**  Lab Care
 1. **Corpus Christi: Testative - Corpus Christi - <font color="green">OPEN</font>**
     * **Address:** 5876b Evehart Rd, Corpus Christi	TX 78413
@@ -391,7 +391,7 @@ Use this template for new locations:
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
     * **Solv-Health Appointment Link:** 
-    * **Registration Link:**  https://forms.oclsolutions.com/220054895265863
+    * **Registration Link:**  <https://forms.oclsolutions.com/220054895265863>
     * **Lab Name:**  Lab Care
 1. **Spring: Testative - Spring - <font color="orange">OPENING SOON</font>**
     * **Address:** 3315 Spring Cypress Rd, Spring TX77388
@@ -401,7 +401,7 @@ Use this template for new locations:
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
     * **Solv-Health Appointment Link:** 
-    * **Registration Link:**  https://forms.oclsolutions.com/220054105040838
+    * **Registration Link:**  <https://forms.oclsolutions.com/220054105040838>
     * **Lab Name:**  Lab Care
 ## Utah
 1. **Springville: Testative-Springville - <font color="green">OPEN</font>**
@@ -412,8 +412,8 @@ Use this template for new locations:
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
     * **Solv-Health Appointment Link:** 
-    * **Registration Link:** https://forms.oclsolutions.com/220054519429858 
-    * **Lab Name:**  
+    * **Registration Link:** <https://forms.oclsolutions.com/220054519429858> 
+    * **Lab Name:**  LAB CARE
 1. **South Salt Lake : Testative - Salt Lake City  - <font color="orange">OPENING SOON</font>**
     * **Address:** 3443 S State St, Unit 19 South Salt Lake, UT 84115
     * **Location Phone Number:** Store phone number
@@ -422,8 +422,8 @@ Use this template for new locations:
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
     * **Solv-Health Appointment Link:** 
-    * **Registration Link:**  https://forms.oclsolutions.com/220054958685869
-    * **Lab Name:**  
+    * **Registration Link:**  <https://forms.oclsolutions.com/220054958685869>
+    * **Lab Name:**  LAB CARE
 1. **Murray: Testative - Murray - <font color="orange">OPENING SOON</font>**
     * **Address:** 845 E 4800 S #120, Murray UT 84107
     * **Location Phone Number:** 
@@ -432,8 +432,8 @@ Use this template for new locations:
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
     * **Solv-Health Appointment Link:** 
-    * **Registration Link:** https://forms.oclsolutions.com/220054469565863 
-    * **Lab Name:**  
+    * **Registration Link:** <https://forms.oclsolutions.com/220054469565863> 
+    * **Lab Name:**  LAB CARE
 
 ## Colorado
 
