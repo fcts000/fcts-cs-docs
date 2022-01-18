@@ -143,7 +143,7 @@ Use this template for new locations:
     * **Lab Name:**  LAB CARE 
 
 ##Wisconsin
-1. **Milwaukee: Testative - Milwaukee - <font color="RED">CLOSED</font>**
+1. **Milwaukee: Testative - Milwaukee - <font color="GREEN">OPEN 8am-1pm</font>**
     * **Address:** 4435 W. Oklahoma Ave Milwaukee WI 53219
     * **Location Phone Number:** 872-639-3005
     * **Location Type:** Store front 
