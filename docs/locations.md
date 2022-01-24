@@ -424,7 +424,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  <https://forms.oclsolutions.com/220054958685869>
     * **Lab Name:**  LAB CARE
-1. **Murray: Testative - Murray - <font color="orange">OPENING SOON</font>**
+1. **Murray: Testative - Murray - <font color="green">OPEN</font>**
     * **Address:** 845 E 4800 S #120, Murray UT 84107
     * **Location Phone Number:** 
     * **Location Type:** Office
@@ -438,7 +438,7 @@ Use this template for new locations:
 ## Colorado
 
 ## California
-1. **Santa Anna: FCTS-Santa Anna - <font color="red">CLOSED</font>**
+1. **Santa Anna: FCTS-Santa Anna - <font color="GREEN">OPEN</font>**
     * **Address:** **1314 N Grand Ave, Santa Ana, CA 92701**
     * **Location Phone Number:** 
     * **Location Type:** Store
@@ -460,7 +460,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  
     * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
-1. **Long Beach: FCTS-Long Beach - <font color="red">CLOSED</font>**
+1. **Long Beach: FCTS-Long Beach - <font color="green">OPEN</font>**
     * **Address: 375 Atlantic Ave suite 104, Long Beach, CA  90802**
     * **Location Phone Number:** 
     * **Location Type:** store
