@@ -158,7 +158,7 @@ Use this template for new locations:
 ## Virginia
 1. **Fredericksburg: Testative-Fredericksburg - <font color="green">OPEN</font>**
     * **Address:** 12140 Amos Ln, Fredericksburg VA 22407
-    * **Location Phone Number:** 
+    * **Location Phone Number:** 540-642-6127
     * **Location Type:** Office
     * **Appointment Required:** No
     * **Timings:** 8am to 7pm, Open 7 days
@@ -383,7 +383,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  <https://forms.oclsolutions.com/220054749650859>
     * **Lab Name:**  Lab Care
-1. **Corpus Christi: Testative - Corpus Christi - <font color="green">OPEN</font>**
+1. **Corpus Christi: Testative - Corpus Christi - <font color="green">OPEN at 12 pm</font>**
     * **Address:** 5876b Evehart Rd, Corpus Christi	TX 78413
     * **Location Phone Number:** Store phone number
     * **Location Type:** Office/Store/Parking lot
