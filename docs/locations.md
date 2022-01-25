@@ -317,7 +317,7 @@ Use this template for new locations:
      All odd numbered suites are at the back of the building on 8th street. Drive to the back of the building on eighth street and look for suite 117 and park near there. The technician will come up to your car.
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-richmond-tx-AaRR28>
     * **Registration Link:** 
-    * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
+    * **Lab name:** 
 2. **North Houston:FCTS-Greenpkwy- <font color="red">CLOSED</font>**
     * **Address:** 1106 Greens Pkwy, Houston, TX, 77067
     * **Location Phone Number:** 
@@ -328,7 +328,7 @@ Use this template for new locations:
      Mobile unit near the EC learning center parking lot
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-houston-tx-gZeexb>
     * **Registration Link:** 
-    * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
+    * **Lab name:**
 3. **South Houston:FCTS-Telephone- <font color="red">CLOSED</font>**
     * **Address:** 4659 Telephone Rd, HoustonTX  77087
     * **Location Phone Number:** 
@@ -339,7 +339,7 @@ Use this template for new locations:
      Extra tips to find the location: in the lot of swift gas station
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-houston-tx-pYOO6l>
     * **Registration Link:** 
-    * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
+    * **Lab name:** 
 4. **North Houston:FCTS-Mangum- <font color="red">CLOSED</font>**
     * **Address: 2917 Mangum RdHouston, TX 77092**
     * **Location Phone Number:** 
@@ -350,7 +350,7 @@ Use this template for new locations:
      Extra tips to find the location: in the lot of swift gas station
     * **Solv-Health Appointment Link:** 
     * **Registration Link:** 
-    * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
+    * **Lab name:** 
 5. **Stafford:FCTS-Stafford- <font color="red">CLOSED</font>**
     * **Address: 501 Murphy Rd, Stafford TX 77477**
     * **Location Phone Number:** 
@@ -361,7 +361,7 @@ Use this template for new locations:
      In the parking lot by tornado burger and El Regio Mexican Grill & Bar
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-stafford-tx-pYJE9g>
     * **Registration Link:** 
-    * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
+    * **Lab name:** 
 6. **Pasadena:FCTS-Pasadena- <font color="red">PERMANENTLY CLOSED</font>**
     * **Address: 3360 Shaver St, Pasadena, TX 77504**
     * **Location Phone Number:** 
@@ -372,7 +372,7 @@ Use this template for new locations:
      Directly across the street from Valero gas station. On the corner of Avenue I and Shaver st. Mobile trailer located in the shopping center of taqueria el maizal.
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-pasadena-tx-AWEE8v>
     * **Registration Link:** 
-    * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
+    * **Lab name:** 
 1. **Portland: Testative - Portland - <font color="orange">OPENING SOON</font>**
     * **Address:**712 Moore Ave, Portland TX 78374
     * **Location Phone Number:** Store phone number
@@ -442,13 +442,13 @@ Use this template for new locations:
     * **Address:** **1314 N Grand Ave, Santa Ana, CA 92701**
     * **Location Phone Number:** 
     * **Location Type:** Store
-    * **Appointment Required:** YES
+    * **Appointment Required:** No
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
       The suite Behind the smoke shop at this address
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-santa-ana-ca-0ry2v4>
     * **Registration Link:**  
-    * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
+    * **Lab name:** 
 1. **San Bernardino: FCTS-San Bernardino - <font color="red">CLOSED</font>**
     * **Address: 685 E Redlands BlvdSan Bernardino, CA 92408**
     * **Location Phone Number:** 
@@ -459,17 +459,17 @@ Use this template for new locations:
         Closed. Reroute to Long Beach or tell them to visit our website, <freecovidtestingsite.com>
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  
-    * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com 
+    * **Lab name:**
 1. **Long Beach: FCTS-Long Beach - <font color="green">OPEN</font>**
     * **Address: 375 Atlantic Ave suite 104, Long Beach, CA  90802**
     * **Location Phone Number:** 
     * **Location Type:** store
-    * **Appointment Required:** YES
+    * **Appointment Required:** NO
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
         Gps will take you to an apartment building that is across the street from the corner 7-11. The first floor of suites are buisness suites. Look for suite 104 which is right next to Crest Wave Property Management.
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-long-beach-ca-g1P1Wq>
     * **Registration Link:**    
-    * **Lab name:** Northshore Clinical - 773 570 6510 - results@northshoreclinical.com - results@northshoreclinical.com
+    * **Lab name:** 
 
 
