@@ -11,9 +11,7 @@ Use this template for new locations:
     * **Location Type:** Office/Store/Parking lot
     * **Appointment Required:** Yes
     * **Timings:** 8am to 8pm, Open 7 days
-    * **Additional notes:**  
-      Enter the office building on Carr Rd and drive straight back.  
-      There is a mobile office trailer parked all the way back in the parking lot.
+    * **Additional notes:**
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  
     * **Lab Name:**  
@@ -408,7 +406,7 @@ Use this template for new locations:
 ## Colorado
 
 ## California
-1. **Santa Anna: FCTS-Santa Anna - <font color="GREEN">OPEN</font>**
+1. **Santa Anna: Testative-Santa Anna - <font color="GREEN">OPEN</font>**
     * **Address:** **1314 N Grand Ave, Santa Ana, CA 92701**
     * **Location Phone Number:** 
     * **Location Type:** Store
@@ -416,10 +414,10 @@ Use this template for new locations:
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
       The suite Behind the smoke shop at this address
-    * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-santa-ana-ca-0ry2v4>
+    * **Solv-Health Appointment Link:** 
     * **Registration Link:**  
     * **Lab name:**
-1. **Long Beach: FCTS-Long Beach - <font color="green">OPEN</font>**
+1. **Long Beach: Testative-Long Beach - <font color="green">OPEN</font>**
     * **Address: 375 Atlantic Ave suite 104, Long Beach, CA  90802**
     * **Location Phone Number:** 
     * **Location Type:** store
@@ -427,8 +425,18 @@ Use this template for new locations:
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
         Gps will take you to an apartment building that is across the street from the corner 7-11. The first floor of suites are buisness suites. Look for suite 104 which is right next to Crest Wave Property Management.
-    * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-long-beach-ca-g1P1Wq>
+    * **Solv-Health Appointment Link:** 
     * **Registration Link:**    
     * **Lab name:** 
-
+1. **Huntington Park:Testative - Huntington Park <font color="green">OPEN</font>**
+    * **Address:** 3122 E Gage Ave, Huntington Park CA 90255
+    * **Location Phone Number:** Store phone number
+    * **Location Type:** Office/Store/Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 8pm, Open 7 days
+    * **Additional notes:**
+      Pcr only.
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+    * **Lab Name:**  
 
