@@ -126,7 +126,7 @@ Use this template for new locations:
     * **Location Phone Number:** 872-639-3005
     * **Location Type:** Store front 
     * **Appointment Required:** No
-    * **Timings:** 8am to 7pm, Open 7 days
+    * **Timings:** 8am to 5:30pm, Open 7 days
     * **Additional notes:**
      Entrance is on Oklahoma Ave. Walk up to the second floor unit. 2 hour street parking on both sides of Oklahoma ave and 45th street.
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/testative-milwaukee-wi-A248DE>
