@@ -417,7 +417,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  
     * **Lab name:**
-1. **Long Beach: Testative-Long Beach - <font color="green">OPEN</font>**
+1. **Long Beach: Testative-Long Beach - <font color="YELLOW">Temporarily Closed:reroute to Santa Anna</font>**
     * **Address: 375 Atlantic Ave suite 104, Long Beach, CA  90802**
     * **Location Phone Number:** 
     * **Location Type:** store
