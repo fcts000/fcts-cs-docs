@@ -399,7 +399,7 @@ Use this template for new locations:
     * **Appointment Required:** No
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
-    * **Solv-Health Appointment Link:** 
+    * **Solv-Health Appointment Link:** <https://www.solvhealth.com/testative-murray-ut-A6R859>
     * **Registration Link:** <https://forms.oclsolutions.com/220054469565863> 
     * **Lab Name:**   LAB CARE - 847-792-1169 - labcarechicago@gmail.com
 
