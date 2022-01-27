@@ -379,7 +379,7 @@ Use this template for new locations:
     * **Appointment Required:** No
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
-    * **Solv-Health Appointment Link:** 
+    * **Solv-Health Appointment Link:** <https://www.solvhealth.com/testative-springville-ut-gNVj5o>
     * **Registration Link:** <https://forms.oclsolutions.com/220054519429858> 
     * **Lab Name:**  LAB CARE - 847-792-1169 - labcarechicago@gmail.com
 1. **South Salt Lake : Testative - Salt Lake City  - <font color="orange">OPENING SOON</font>**
