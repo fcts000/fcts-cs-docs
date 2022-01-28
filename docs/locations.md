@@ -335,7 +335,7 @@ Use this template for new locations:
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
     * **Appointment Required:** No
-    * **Timings:** 8am to 7pm, Open 7 days
+    * **Timings:** 8am to 8pm, Open 7 days
     * **Additional notes:**  
      In the parking lot by tornado burger and El Regio Mexican Grill & Bar
     * **Solv-Health Appointment Link:** 
