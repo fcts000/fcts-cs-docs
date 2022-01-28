@@ -296,7 +296,7 @@ Use this template for new locations:
      All odd numbered suites are at the back of the building on 8th street. Drive to the back of the building on eighth street and look for suite 117 and park near there. The technician will come up to your car.
     * **Solv-Health Appointment Link:** 
     * **Registration Link:** 
-    * **Lab name:** 
+    * **Lab name:** LAB CARE - 847-792-1169 - labcarechicago@gmail.com
 2. **North Houston:FCTS-Greenpkwy- <font color="red">CLOSED</font>**
     * **Address:** 1106 Greens Pkwy, Houston, TX, 77067
     * **Location Phone Number:** 
@@ -307,7 +307,7 @@ Use this template for new locations:
      Mobile unit near the EC learning center parking lot
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-houston-tx-gZeexb>
     * **Registration Link:** 
-    * **Lab name:**
+    * **Lab name:** LAB CARE - 847-792-1169 - labcarechicago@gmail.com
 3. **South Houston:FCTS-Telephone- <font color="green">Open</font>**
     * **Address:** 4659 Telephone Rd, HoustonTX  77087
     * **Location Phone Number:** 
@@ -318,7 +318,7 @@ Use this template for new locations:
      Extra tips to find the location: in the lot of swift gas station
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-houston-tx-pYOO6l>
     * **Registration Link:** 
-    * **Lab name:** 
+    * **Lab name:** LAB CARE - 847-792-1169 - labcarechicago@gmail.com
 4. **North Houston:FCTS-Mangum- <font color="red">CLOSED</font>**
     * **Address: 2917 Mangum RdHouston, TX 77092**
     * **Location Phone Number:** 
@@ -329,18 +329,18 @@ Use this template for new locations:
      Extra tips to find the location: in the lot of swift gas station
     * **Solv-Health Appointment Link:** 
     * **Registration Link:** 
-    * **Lab name:** 
-5. **Stafford:FCTS-Stafford- <font color="red">CLOSED</font>**
+    * **Lab name:** LAB CARE - 847-792-1169 - labcarechicago@gmail.com
+5. **Stafford:FCTS-Stafford- <font color="green">OPEN</font>**
     * **Address: 501 Murphy Rd, Stafford TX 77477**
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
     * **Appointment Required:** No
-    * **Timings:** 8am to 8pm, Open 7 days
+    * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
      In the parking lot by tornado burger and El Regio Mexican Grill & Bar
-    * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-stafford-tx-pYJE9g>
+    * **Solv-Health Appointment Link:** 
     * **Registration Link:** 
-    * **Lab name:** 
+    * **Lab name:** LAB CARE - 847-792-1169 - labcarechicago@gmail.com
  
 1. **Portland: Testative - Portland - <font color="orange">OPENING SOON</font>**
     * **Address:**712 Moore Ave, Portland TX 78374
