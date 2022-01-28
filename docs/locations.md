@@ -82,7 +82,7 @@ Use this template for new locations:
     * **Timings:** 8am to 8pm, Open 7 days
     * **Additional notes:**  
       Entrance is located on right side of the building. Second floor, first office on left.  
-    * **Solv-Health Appointment Link:** 
+    * **Solv-Health Appointment Link:** <https://www.solvhealth.com/testative-dover-de-pnQL4X>
     * **Registration Link:** <https://forms.oclsolutions.com/220054862332852>
     * **Lab Name:**  LAB CARE - 847-792-1169 - labcarechicago@gmail.com
 1. **Kirkwood Hwy: Testative-Kirkwood - <font color="green">OPEN</font>**
