@@ -121,7 +121,7 @@ Use this template for new locations:
     * **Lab Name:**  LAB CARE - 847-792-1169 - labcarechicago@gmail.com
 
 ##Wisconsin
-1. **Milwaukee: Testative - Milwaukee - <font color="GREEN">OPEN 8am-1pm</font>**
+1. **Milwaukee: Testative - Milwaukee - <font color="GREEN">OPEN 8am-5pm</font>**
     * **Address:** 4435 W. Oklahoma Ave Milwaukee WI 53219
     * **Location Phone Number:** 872-639-3005
     * **Location Type:** Store front 
@@ -285,7 +285,7 @@ Use this template for new locations:
     * **Registration Link:** <https://forms.oclsolutions.com/220054462879864>  
     * **Lab Name:**   LAB CARE - 847-792-1169 - labcarechicago@gmail.com
 ## Texas
-1. **Richmond:FCTS-Richmond- <font color="red">CLOSED</font>**
+1. **Richmond:Testative-Richmond- <font color="green">Open</font>**
     * **Address:** 301 S 9th St suite 117, Richmond TX 77469
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
@@ -293,7 +293,7 @@ Use this template for new locations:
     * **Timings:** 8am to 7pm, Open 7 days
     * **Additional notes:**  
      All odd numbered suites are at the back of the building on 8th street. Drive to the back of the building on eighth street and look for suite 117 and park near there. The technician will come up to your car.
-    * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-richmond-tx-AaRR28>
+    * **Solv-Health Appointment Link:** 
     * **Registration Link:** 
     * **Lab name:** 
 2. **North Houston:FCTS-Greenpkwy- <font color="red">CLOSED</font>**
@@ -307,7 +307,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-houston-tx-gZeexb>
     * **Registration Link:** 
     * **Lab name:**
-3. **South Houston:FCTS-Telephone- <font color="red">CLOSED</font>**
+3. **South Houston:FCTS-Telephone- <font color="green">Open</font>**
     * **Address:** 4659 Telephone Rd, HoustonTX  77087
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
@@ -417,7 +417,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  
     * **Lab name:**
-1. **Long Beach: Testative-Long Beach - <font color="YELLOW">Temporarily Closed:reroute to Santa Anna</font>**
+1. **Long Beach: Testative-Long Beach - <font color="green">open</font>**
     * **Address: 375 Atlantic Ave suite 104, Long Beach, CA  90802**
     * **Location Phone Number:** 
     * **Location Type:** store
