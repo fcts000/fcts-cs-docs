@@ -270,7 +270,8 @@ Use this template for new locations:
     * **Location Type:** Parking lot
     * **Appointment Required:** No
     * **Timings:** 8am to 7pm, Open 7 days
-    * **Additional notes:**  
+    * **Additional notes:** Testing is done in the back of the building in the parking lot. Turn into the ally off broadway and enter the second half of the parking lot.
+      The technician will come up to the patients' car to get them tested.
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  <https://forms.oclsolutions.com/220054916158858>
     * **Lab Name:**   LAB CARE - 847-792-1169 - labcarechicago@gmail.com

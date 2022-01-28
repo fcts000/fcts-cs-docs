@@ -16,7 +16,7 @@
         * Location of Testing: 
     * Send this information by SMS. Upon receiving response, post it in #rapid-results-channel on discord
 * **<font color="red">Where are my pcr results?</font>**
-    * **once the pcr leaves our hands the lab is the only one with access to your results and information. please call the lab at 773-570-6510 or give them an email at results@northshoreclinical.com for all PCR test result inquiries. Thank you!**
+    * **once the pcr leaves our hands the lab is the only one with access to your results and information.**
 * **<font color="red">What if I don't have a government issued identification?</font>**
     * **You must have some form of government issued identification(drivers license, passport, etc..)**
 * **<font color="red">What if I don’t have insurance?</font>**
