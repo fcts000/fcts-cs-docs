@@ -29,7 +29,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/testative-newark-de-pYO3Z9>
     * **Registration Link:** <https://forms.oclsolutions.com/220054935112849>
     * **Lab name:** 
-1. **Elkton, MD: Testative-Elkton - <font color="red">TEMPORARILY CLOSED</font>**
+1. **Elkton, MD: Testative-Elkton - <font color="GREEN">OPEN</font>**
     * **Address:** 1653 Elkton Rd suite F, Elkton, MD 21921
     * **Location Phone Number:** 630-885-4672
     * **Location Type:** Parking lot
@@ -147,7 +147,7 @@ Use this template for new locations:
     * **Lab name:** LAB CARE - 847-792-1169 - labcarechicago@gmail.com
 
 ## Pennsylvania
-1. **Philadelphia: Testative - Philidelphia - <font color="GREEN">OPEN</font>**
+1. **Philadelphia Airport: Testative - Philidelphia - <font color="GREEN">OPEN</font>**
     * **Address:** 3751 Island Ave, Philadelphia PA	19153
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
@@ -157,7 +157,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/testative-philadelphia-pa-gZeMWX>
     * **Registration Link:** <https://forms.oclsolutions.com/220053840035847> 
     * **Lab Name:**  LAB CARE - 847-792-1169 - labcarechicago@gmail.com
-1. **West Chester: Testative - West Chester - <font color="orange">OPENING SOON</font>**
+1. **West Chester: Testative - West Chester - <font color="green">OPEN</font>**
     * **Address:** 929 S High St Suite 11, West Chester	PA 19382
     * **Location Phone Number:** 
     * **Location Type:** Office/Store/Parking lot
@@ -168,7 +168,7 @@ Use this template for new locations:
     * **Registration Link:**  <https://forms.oclsolutions.com/220054025260843>
     * **Lab Name:**  LAB CARE - 847-792-1169 - labcarechicago@gmail.com
 ## Michigan
-1. **Canton: FCTS-Canton- <font color="RED">CLOSED</font>**
+1. **Canton: FCTS-Canton- <font color="Yellow">OPENING SOON</font>**
     * **Address:** 7288 Sheldon Rd Canton, MI 48187
     * **Location Phone Number:** 
     * **Location Type:** Office/Store/Parking lot
@@ -297,7 +297,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** 
     * **Registration Link:** 
     * **Lab name:** LAB CARE - 847-792-1169 - labcarechicago@gmail.com
-2. **North Houston:FCTS-Greenpkwy- <font color="red">CLOSED</font>**
+2. **North Houston:Testative-Greenpkwy- <font color="red">CLOSED</font>**
     * **Address:** 1106 Greens Pkwy, Houston, TX, 77067
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
@@ -308,7 +308,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-houston-tx-gZeexb>
     * **Registration Link:** 
     * **Lab name:** LAB CARE - 847-792-1169 - labcarechicago@gmail.com
-3. **South Houston:FCTS-Telephone- <font color="green">Open</font>**
+3. **South Houston:Testative-Telephone- <font color="green">Open</font>**
     * **Address:** 4659 Telephone Rd, HoustonTX  77087
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
@@ -319,8 +319,8 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-houston-tx-pYOO6l>
     * **Registration Link:** 
     * **Lab name:** LAB CARE - 847-792-1169 - labcarechicago@gmail.com
-4. **North Houston:FCTS-Mangum- <font color="red">CLOSED</font>**
-    * **Address: 2917 Mangum RdHouston, TX 77092**
+4. **North Houston:Testative-Mangum- <font color="red">OPEN</font>**
+    * **Address: 2917 Mangum Rd, Houston, TX 77092**
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
     * **Appointment Required:** No
@@ -330,7 +330,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** 
     * **Registration Link:** 
     * **Lab name:** LAB CARE - 847-792-1169 - labcarechicago@gmail.com
-5. **Stafford:FCTS-Stafford- <font color="green">OPEN</font>**
+5. **Stafford:Testative-Stafford- <font color="green">OPEN</font>**
     * **Address: 501 Murphy Rd, Stafford TX 77477**
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
