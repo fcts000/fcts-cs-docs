@@ -179,7 +179,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-canton-mi-gKvMx7>
     * **Registration Link:**  
     * **Lab name:** 
-1. **Waterford Townships: FCTS-Waterford- <font color="red">CLOSED</font>**
+1. **Waterford Townships: FCTS-Waterford- <font color="Yellow">Opening SOON</font>**
     * **Address:** 6650 Highland Rd,Waterford Twp, MI 48327
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
