@@ -62,18 +62,30 @@ Use this template for new locations:
     * **Additional notes:** 
     * **Solv-Health Appointment Link:** 
     * **Registration Link:** <https://forms.oclsolutions.com/220055035445850>  
-    *  **Lab Name:** LAB CARE - 847-792-1169 - labcarechicago@gmail.com
+    * **Lab Name:** LAB CARE - 847-792-1169 - labcarechicago@gmail.com
+1. **Testative: Testative - Concord Ave - <font color="green">OPEN</font>**
+    * **Address:** 2215B N. Washington Street, Wilmington De 19802
+    * **Location Phone Number:** Store phone number
+    * **Location Type:** Office/Store/Parking lot
+    * **Appointment Required:** Yes
+    * **Timings:** 8am to 5pm, Open 7 days
+    * **Additional notes:**
+         Next to the big yellow store on the corner
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+    * **Lab Name:**   LAB CARE - 847-792-1169 - labcarechicago@gmail.com
+
 1. **Claymont - Testative - Claymont -  <font color="green">OPEN</font>**
     * **Address:** 3512 Philadelphia Pike, Claymont	DE 19703
     * **Location Phone Number:** 
     * **Appointment Required:** No
     * **Location Type:** Store 
     * **Timings:** 
-        * 8am to 7pm, Open 7 days
+        * 8am to pm, Open 7 days
     * **Additional notes:** Next to Claymont Steak Shop on Philadelphia Pike
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/testative-claymont-de-AvV34d>
     * **Registration Link:** <https://forms.oclsolutions.com/220054945906861>
-    *  **Lab Name:**LAB CARE - 847-792-1169 - labcarechicago@gmail.com
+    * **Lab Name:** LAB CARE - 847-792-1169 - labcarechicago@gmail.com
 1. **Dover: Testative- Dover - <font color="green">OPEN</font>**
     * **Address:** 2089 S Dupont Hwy, Dover DE 19901
     * **Location Phone Number:** 
