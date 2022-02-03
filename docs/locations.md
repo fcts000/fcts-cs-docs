@@ -74,6 +74,17 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  
     * **Lab Name:**   LAB CARE - 847-792-1169 - labcarechicago@gmail.com
+1. **Testative: Testative - Concord pike - <font color="green">OPEN</font>**
+    * **Address:** 2900 Concord Pike, Wilmington DE 19802
+    * **Location Phone Number:**
+    * **Location Type:** Office/Store/Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**
+         Neare the pep boys and make a quick left into the shopping center
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+    * **Lab Name:**   LAB CARE - 847-792-1169 - labcarechicago@gmail.com
 
 1. **Claymont - Testative - Claymont -  <font color="green">OPEN</font>**
     * **Address:** 3512 Philadelphia Pike, Claymont	DE 19703
@@ -374,12 +385,12 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  <https://forms.oclsolutions.com/220054895265863>
     * **Lab Name:**  LAB CARE - 847-792-1169 - labcarechicago@gmail.com
-1. **Spring: Testative - Spring - <font color="orange">OPENING SOON</font>**
+1. **Spring: Testative - Spring - <font color="orange">OPEN</font>**
     * **Address:** 3315 Spring Cypress Rd, Spring TX77388
     * **Location Phone Number:** Store phone number
-    * **Location Type:** Office/Store/Parking lot
+    * **Location Type:** Parking lot
     * **Appointment Required:** No
-    * **Timings:** 8am to 7pm, Open 7 days
+    * **Timings:** 10 am - 5 pm Open 7 days
     * **Additional notes:**  
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  <https://forms.oclsolutions.com/220054105040838>
