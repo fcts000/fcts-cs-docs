@@ -144,7 +144,7 @@ Use this template for new locations:
     * **Lab Name:**  LAB CARE - 847-792-1169 - labcarechicago@gmail.com
 
 ##Wisconsin
-1. **Milwaukee: Testative - Milwaukee - <font color="GREEN">OPEN 8am-5pm</font>**
+1. **Milwaukee: Testative - Milwaukee - <font color="GREEN">OPEN 10:30am-6pm</font>**
     * **Address:** 4435 W. Oklahoma Ave Milwaukee WI 53219
     * **Location Phone Number:** 872-639-3005
     * **Location Type:** Store front 
