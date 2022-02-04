@@ -29,7 +29,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/testative-newark-de-pYO3Z9>
     * **Registration Link:** <https://forms.oclsolutions.com/220054935112849>
     * **Lab name:** 
-1. **Elkton, MD: Testative-Elkton - <font color="GREEN">OPEN</font>**
+1. **Elkton, MD: Testative-Elkton - <font color="RED">CLOSED</font>**
     * **Address:** 1653 Elkton Rd suite F, Elkton, MD 21921
     * **Location Phone Number:** 630-885-4672
     * **Location Type:** Parking lot
@@ -425,10 +425,20 @@ Use this template for new locations:
     * **Additional notes:**  
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/testative-murray-ut-A6R859>
     * **Registration Link:** <https://forms.oclsolutions.com/220054469565863> 
-    * **Lab Name:**   LAB CARE - 847-792-1169 - labcarechicago@gmail.com
+    * **Lab Name:**   LAB CARE - 847-792-1169 - labcarechicago@gail.com
 
 ## Colorado
-
+1. **City: Location Name - <font color="green">OPEN</font>**
+    * **Address:** 7800 W Colfax, Lakewood Colorado 80214
+    * **Location Phone Number:** 720-730-1206
+    * **Location Type:** Parking lot 
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:** 
+         Gps will take you to the back of the building, however we are located in the front of the building by the Dent Spot(mechanic shop).
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+    * **Lab Name:**  LAB CARE - 847-792-1169 - labcarechicago@gail.com
 ## California
 1. **Santa Anna: Testative-Santa Anna - <font color="GREEN">OPEN</font>**
     * **Address:** **1314 N Grand Ave, Santa Ana, CA 92701**
