@@ -309,7 +309,7 @@ Use this template for new locations:
     * **Registration Link:** <https://forms.oclsolutions.com/220054462879864>  
     * **Lab Name:**   LAB CARE - 847-792-1169 - labcarechicago@gmail.com
 ## Texas
-1. **Richmond:Testative-Richmond- <font color="green">Open</font>**
+1. **Richmond:Testative-Richmond- <font color="RED">CLOSED</font>**
     * **Address:** 301 S 9th St suite 117, Richmond TX 77469
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
@@ -331,7 +331,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-houston-tx-gZeexb>
     * **Registration Link:** 
     * **Lab name:** LAB CARE - 847-792-1169 - labcarechicago@gmail.com
-3. **South Houston:Testative-Telephone- <font color="green">Open</font>**
+3. **South Houston:Testative-Telephone- <font color="RED">CLOSED</font>**
     * **Address:** 4659 Telephone Rd, HoustonTX  77087
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
@@ -342,7 +342,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** <https://www.solvhealth.com/free-covid-testing-site-houston-tx-pYOO6l>
     * **Registration Link:** 
     * **Lab name:** LAB CARE - 847-792-1169 - labcarechicago@gmail.com
-4. **North Houston:Testative-Mangum- <font color="red">OPEN</font>**
+4. **North Houston:Testative-Mangum- <font color="RED">CLOSED</font>**
     * **Address: 2917 Mangum Rd, Houston, TX 77092**
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
@@ -353,7 +353,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** 
     * **Registration Link:** 
     * **Lab name:** LAB CARE - 847-792-1169 - labcarechicago@gmail.com
-5. **Stafford:Testative-Stafford- <font color="green">OPEN</font>**
+5. **Stafford:Testative-Stafford- <font color="RED">CLOSED</font>**
     * **Address: 501 Murphy Rd, Stafford TX 77477**
     * **Location Phone Number:** 
     * **Location Type:** Parking lot
@@ -375,7 +375,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  <https://forms.oclsolutions.com/220054749650859>
     * **Lab Name:**  LAB CARE - 847-792-1169 - labcarechicago@gmail.com
-1. **Corpus Christi: Testative - Corpus Christi - <font color="green">OPEN at 12 pm</font>**
+1. **Corpus Christi: Testative - Corpus Christi - <font color="RED">CLOSED</font>**
     * **Address:** 5876b Evehart Rd, Corpus Christi	TX 78413
     * **Location Phone Number:** Store phone number
     * **Location Type:** Office/Store/Parking lot
@@ -385,7 +385,7 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  <https://forms.oclsolutions.com/220054895265863>
     * **Lab Name:**  LAB CARE - 847-792-1169 - labcarechicago@gmail.com
-1. **Spring: Testative - Spring - <font color="orange">OPEN</font>**
+1. **Spring: Testative - Spring - <font color="RED">CLOSED</font>**
     * **Address:** 3315 Spring Cypress Rd, Spring TX77388
     * **Location Phone Number:** Store phone number
     * **Location Type:** Parking lot
