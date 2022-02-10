@@ -473,4 +473,14 @@ Use this template for new locations:
     * **Solv-Health Appointment Link:** 
     * **Registration Link:**  
     * **Lab Name:**  
-
+1. **Baldwin Park Park:Testative - Baldwin Park <font color="green">OPEN</font>**
+    * **Address:** 4120 Maine Ave, Baldwin Park, CA 91706
+    * **Location Phone Number:** Store phone number
+    * **Location Type:** Office/Store/Parking lot
+    * **Appointment Required:** No
+    * **Timings:** 8am to 7pm, Open 7 days
+    * **Additional notes:**
+      Pcr only.
+    * **Solv-Health Appointment Link:** 
+    * **Registration Link:**  
+    * **Lab Name:**  
